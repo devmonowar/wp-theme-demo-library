@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WP Theme Demo Library</title>
+<meta name="description" content="Ready-made demo sites for devmonowar's WordPress themes, served over GitHub Pages.">
+<style>
+  :root { --accent:#14a085; --ink:#1d2327; --muted:#646970; --line:#e3e5e8; --bg:#f6f7f7; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+         color:var(--ink); line-height:1.6; background:var(--bg); }
+  .wrap { max-width:760px; margin:0 auto; padding:48px 20px 64px; }
+  header { border-bottom:1px solid var(--line); padding-bottom:24px; margin-bottom:32px; }
+  h1 { margin:0 0 8px; font-size:30px; }
+  .lead { color:var(--muted); margin:0; font-size:17px; }
+  h2 { font-size:18px; margin:36px 0 14px; }
+  .card { background:#fff; border:1px solid var(--line); border-radius:10px; padding:20px 22px; margin-bottom:16px; }
+  .card h3 { margin:0 0 6px; font-size:16px; }
+  .card p { margin:0 0 14px; color:var(--muted); }
+  a { color:var(--accent); }
+  a.btn { display:inline-block; background:var(--accent); color:#fff; text-decoration:none;
+          padding:8px 16px; border-radius:6px; font-size:14px; font-weight:600; margin-right:8px; }
+  a.btn:hover { opacity:.9; }
+  code { background:#eef0f1; padding:2px 6px; border-radius:4px; font-size:13px; }
+  .count { margin:0 0 14px; font-size:14px; color:var(--ink); }
+  .soon { opacity:.6; }
+  footer { margin-top:44px; padding-top:20px; border-top:1px solid var(--line); color:var(--muted); font-size:13px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>WP Theme Demo Library</h1>
+    <p class="lead">Ready-made demo sites for <a href="https://github.com/devmonowar">devmonowar</a>'s WordPress
+       themes — served over GitHub Pages and imported with one click from inside each theme, with no
+       theme update needed.</p>
+  </header>
+
+  <h2>Themes using this library</h2>
+
+  <div class="card">
+    <h3>PortoLite</h3>
+    <p>A car repair, servicing and auto detailing theme for WordPress. Open <em>Appearance &rarr; Import Demo Data</em>
+       in wp-admin to browse and import these demos.</p>
+    <p class="count">Complete demo sites — pages, images, menus, widgets and Customizer settings.</p>
+    <a class="btn" href="portolite/">Browse demos</a>
+    <a class="btn" href="portolite/demo-library.json">Demo Manifest</a>
+    <a class="btn" href="https://github.com/devmonowar/wp-theme-demo-library">GitHub Repository</a>
+    <a href="https://github.com/devmonowar/portolite">Theme on GitHub &rarr;</a>
+  </div>
+
+  <div class="card soon">
+    <h3>More themes</h3>
+    <p>More themes will be added in future releases — each with its own folder and demo library here.</p>
+  </div>
+
+  <h2>How it works</h2>
+  <p>Each theme reads its <code>demo-library.json</code> manifest from its folder above. The manifest
+     lists demos with preview images; importing one downloads its content export, widgets, Customizer
+     settings and images into the site.</p>
+
+  <footer>
+    This repository hosts only demo resources for my WordPress themes. No theme source code is
+    stored here, and these files are not bundled into any theme package.<br>
+    Source: <a href="https://github.com/devmonowar/wp-theme-demo-library">github.com/devmonowar/wp-theme-demo-library</a>
+  </footer>
+</div>
+</body>
+</html>

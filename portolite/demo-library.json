@@ -1,0 +1,23 @@
+{
+	"schema_version": 1,
+	"theme": "portolite",
+	"minimum_theme_version": "1.0.0",
+	"demos": [
+		{
+			"id": "car-repair",
+			"name": "Car Repair Services",
+			"description": "A full workshop site: services, pricing, the technicians, testimonials, FAQs and a contact page with a booking form.",
+			"version": "1.0",
+			"updated": "2026-08-15",
+			"requires": "1.0.0",
+			"category": "Car Repair",
+			"tags": [ "garage", "servicing", "mot", "workshop", "booking" ],
+			"featured": true,
+			"new": true,
+			"preview": "https://devmonowar.github.io/wp-theme-demo-library/portolite/previews/car-repair.jpg",
+			"preview_width": 1200,
+			"preview_height": 675,
+			"file": "https://devmonowar.github.io/wp-theme-demo-library/portolite/demos/car-repair.json"
+		}
+	]
+}
