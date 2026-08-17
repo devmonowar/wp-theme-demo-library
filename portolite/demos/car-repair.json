@@ -7,20 +7,22 @@
 	"files": {
 		"content": "https://devmonowar.github.io/wp-theme-demo-library/portolite/assets/car-repair/content.xml",
 		"widgets": "https://devmonowar.github.io/wp-theme-demo-library/portolite/assets/car-repair/widgets.wie",
-		"customizer": "https://devmonowar.github.io/wp-theme-demo-library/portolite/assets/car-repair/customizer.dat"
+		"customizer": "https://devmonowar.github.io/wp-theme-demo-library/portolite/assets/car-repair/customizer.dat",
+		"attachments": "https://devmonowar.github.io/wp-theme-demo-library/portolite/assets/car-repair/attachments.json"
 	},
 	"setup": {
 		"front_page": "Home",
 		"posts_page": "Blog",
 		"menus": {
 			"main-menu": "Main Menu"
-		}
+		},
+		"site_icon": "https://devmonowar.github.io/wp-theme-demo-library/portolite/assets/car-repair/uploads/2026/08/site-icon.png"
 	},
 	"notice": "Advanced Custom Fields PRO must be active before you import, or the page sections will come in without their content.",
 	"contains": {
 		"pages": 7,
 		"posts": 8,
 		"team_members": 6,
-		"media": 32
+		"media": 33
 	}
 }
