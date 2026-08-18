@@ -2,6 +2,19 @@
 
 All notable changes to this demo library.
 
+## 2026-08-19
+
+- Added **Kivora** (`kivora/`) with its first demo, **Creative Studio**: a design
+  studio site of 7 pages, 6 posts with comments, 15 CC0 images, two menus, five
+  widget areas, a logo, a site icon and the theme's own settings. Every page is
+  assembled from Kivora's registered block patterns, so the demo doubles as a
+  check that the patterns still compose. Imported end to end on a clean install
+  before publishing.
+- `tools/export-demo.php` now exports options named after the theme alongside the
+  theme mods. Kivora keeps all of its settings in one prefixed option, so a demo
+  exported with mods alone arrived on the buyer's site with the theme back at its
+  defaults -- sticky header off, sidebar on the wrong side, live search disabled.
+
 ## 2026-08-18 (later)
 
 - **Car Repair Services** 1.3. The footer's "Quick links" widget is gone: its five

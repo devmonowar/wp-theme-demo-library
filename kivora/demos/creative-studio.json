@@ -1,0 +1,33 @@
+{
+	"schema_version": 1,
+	"id": "creative-studio",
+	"name": "Creative Studio",
+	"theme": "kivora",
+	"requires": "1.0.0",
+	"files": {
+		"content": "https://devmonowar.github.io/wp-theme-demo-library/kivora/assets/creative-studio/content.xml",
+		"widgets": "https://devmonowar.github.io/wp-theme-demo-library/kivora/assets/creative-studio/widgets.wie",
+		"customizer": "https://devmonowar.github.io/wp-theme-demo-library/kivora/assets/creative-studio/customizer.dat",
+		"attachments": "https://devmonowar.github.io/wp-theme-demo-library/kivora/assets/creative-studio/attachments.json"
+	},
+	"setup": {
+		"front_page": "Home",
+		"posts_page": "Journal",
+		"privacy_page": "Privacy policy",
+		"menus": {
+			"primary": "Main Menu",
+			"footer": "Footer Menu"
+		},
+		"site_icon": "https://devmonowar.github.io/wp-theme-demo-library/kivora/assets/creative-studio/uploads/2026/08/northline-studio-icon.png",
+		"source_url": "http://localhost/kivora-demo"
+	},
+	"notice": "No plugins are required. The demo is built from core WordPress blocks and the theme's own patterns.",
+	"contains": {
+		"pages": 7,
+		"posts": 6,
+		"comments": 3,
+		"media": 15,
+		"menus": 2,
+		"widget_areas": 5
+	}
+}

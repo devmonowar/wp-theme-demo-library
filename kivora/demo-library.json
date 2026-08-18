@@ -1,0 +1,23 @@
+{
+	"schema_version": 1,
+	"theme": "kivora",
+	"minimum_theme_version": "1.0.0",
+	"demos": [
+		{
+			"id": "creative-studio",
+			"name": "Creative Studio",
+			"description": "A small design and development studio: a homepage built from the theme's own sections, an about page with the team, services, a six-post journal with comments, and a contact page.",
+			"version": "1.0",
+			"updated": "2026-08-19",
+			"requires": "1.0.0",
+			"category": "Business",
+			"tags": [ "agency", "studio", "portfolio", "services", "corporate" ],
+			"featured": true,
+			"new": true,
+			"preview": "https://devmonowar.github.io/wp-theme-demo-library/kivora/previews/creative-studio.jpg",
+			"preview_width": 1200,
+			"preview_height": 675,
+			"file": "https://devmonowar.github.io/wp-theme-demo-library/kivora/demos/creative-studio.json"
+		}
+	]
+}

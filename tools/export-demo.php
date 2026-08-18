@@ -127,12 +127,44 @@ array_walk_recursive($mods, function (&$value) use ($local_url, $base_url) {
     }
 });
 
+/*
+ * Not every theme keeps its settings in theme mods. Kivora, for one, stores all
+ * of them in a single prefixed option, so a demo exported with mods alone
+ * arrives on the buyer's site with the theme back at its defaults -- sticky
+ * header off, sidebar on the wrong side, live search disabled. Anything named
+ * after the theme travels with the demo.
+ */
+global $wpdb;
+
+$options     = [];
+$option_rows = $wpdb->get_col(
+    $wpdb->prepare(
+        "SELECT option_name FROM {$wpdb->options} WHERE option_name LIKE %s",
+        $wpdb->esc_like($theme . '_') . '%'
+    )
+);
+
+foreach ((array) $option_rows as $option_name) {
+    $options[$option_name] = get_option($option_name);
+}
+
+array_walk_recursive($options, function (&$value) use ($local_url, $base_url) {
+    if (is_string($value)) {
+        $value = str_replace($local_url, $base_url . '/uploads', $value);
+    }
+});
+
 file_put_contents("{$asset_dir}/customizer.dat", serialize([
     'template' => $theme,
     'mods'     => $mods,
-    'options'  => [],
+    'options'  => $options,
 ]));
-WP_CLI::log(sprintf('customizer.dat  %d theme mods', count($mods)));
+WP_CLI::log(sprintf(
+    'customizer.dat  %d theme mods, %d %s_* option(s)',
+    count($mods),
+    count($options),
+    $theme
+));
 
 // ------------------------------------------------ attachments and uploads
 $attachments = [];

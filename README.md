@@ -24,7 +24,7 @@ wp-theme-demo-library/
         └── <demo-id>/         # content.xml, widgets.wie, customizer.dat, uploads/
 ```
 
-Each theme gets its own top-level folder (`portolite/`, future themes…).
+Each theme gets its own top-level folder (`portolite/`, `kivora/`, future themes…).
 
 ## GitHub Pages
 
@@ -40,6 +40,7 @@ Theme manifests:
 
 ```
 https://devmonowar.github.io/wp-theme-demo-library/portolite/demo-library.json
+https://devmonowar.github.io/wp-theme-demo-library/kivora/demo-library.json
 ```
 
 ## Manifest format
