@@ -50,8 +50,42 @@ require_once ABSPATH . 'wp-admin/includes/export.php';
 export_wp(['content' => 'all']);
 $xml = ob_get_clean();
 
+$trashed = 0;
+
+/**
+ * Drop anything in the trash.
+ *
+ * WordPress's exporter takes every status but auto-draft, so a page thrown away
+ * months ago still travels to the buyer's site and lands in their trash, which
+ * is a strange thing to find in a demo you just imported. WordPress's own
+ * default Privacy Policy page is usually the one that does it.
+ *
+ * Done on the string rather than through DOMDocument on purpose: a parse and
+ * re-serialise rewrites the whole file -- indentation gone, CDATA sections
+ * turned into escaped text -- and this is a file buyers import. WXR never nests
+ * <item>, so cutting whole items out is exact, and every byte of what is left
+ * is what WordPress wrote.
+ */
+$xml = preg_replace_callback(
+    '#\t<item>.*?</item>\r?\n#s',
+    static function ($match) use (&$trashed) {
+        if (false === strpos($match[0], '<wp:status><![CDATA[trash]]></wp:status>')) {
+            return $match[0];
+        }
+
+        $trashed++;
+
+        return '';
+    },
+    $xml
+);
+
 file_put_contents($export, str_replace($local_url, $base_url . '/uploads', $xml));
-WP_CLI::log(sprintf('content.xml     %s media URLs rewritten', substr_count($xml, $local_url)));
+WP_CLI::log(sprintf(
+    'content.xml     %s media URLs rewritten, %s trashed item(s) dropped',
+    substr_count($xml, $local_url),
+    $trashed
+));
 
 // ---------------------------------------------------------------- widgets
 global $wp_registered_widget_updates;

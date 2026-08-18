@@ -14,7 +14,8 @@
 		"front_page": "Home",
 		"posts_page": "Blog",
 		"menus": {
-			"main-menu": "Main Menu"
+			"main-menu": "Main Menu",
+			"footer-menu": "Footer Menu"
 		},
 		"site_icon": "https://devmonowar.github.io/wp-theme-demo-library/portolite/assets/car-repair/uploads/2026/08/site-icon.png"
 	},

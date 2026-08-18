@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.0.4" created="2026-08-17 14:16" -->
+	<!-- generator="WordPress/7.0.4" created="2026-08-18 15:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Car Repair Services</title>
 	<link>http://localhost/car-repair</link>
 	<description></description>
-	<pubDate>Mon, 17 Aug 2026 14:16:49 +0000</pubDate>
+	<pubDate>Tue, 18 Aug 2026 15:43:02 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/car-repair</wp:base_site_url>
@@ -117,7 +117,9 @@
 		<wp:tag_slug><![CDATA[warning-lights]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[warning lights]]></wp:tag_name>
 	</wp:tag>
-				<wp:term><wp:term_id>16</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
+				<wp:term><wp:term_id>17</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu]]></wp:term_slug><wp:term_name><![CDATA[Footer Menu]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>16</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
 	<generator>https://wordpress.org/?v=7.0.4</generator>
@@ -162,6 +164,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:31:"2025/06/main-slider-img-1-1.jpg";s:8:"filesize";i:292238;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:31:"main-slider-img-1-1-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15717;}s:5:"large";a:5:{s:4:"file";s:32:"main-slider-img-1-1-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:101803;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"main-slider-img-1-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6896;}s:12:"medium_large";a:5:{s:4:"file";s:31:"main-slider-img-1-1-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63803;}s:14:"portolite-hero";a:5:{s:4:"file";s:32:"main-slider-img-1-1-1200x900.jpg";s:5:"width";i:1200;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:135485;}s:14:"portolite-card";a:5:{s:4:"file";s:31:"main-slider-img-1-1-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43988;}s:16:"portolite-avatar";a:5:{s:4:"file";s:31:"main-slider-img-1-1-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7370;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[A mechanic under a raised car, working on it by torchlight]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[main-slider-img-2]]></title>
@@ -194,6 +200,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:31:"2025/06/main-slider-img-2-1.jpg";s:8:"filesize";i:378077;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:31:"main-slider-img-2-1-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15518;}s:5:"large";a:5:{s:4:"file";s:32:"main-slider-img-2-1-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:131818;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"main-slider-img-2-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6438;}s:12:"medium_large";a:5:{s:4:"file";s:31:"main-slider-img-2-1-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:77971;}s:14:"portolite-hero";a:5:{s:4:"file";s:32:"main-slider-img-2-1-1200x900.jpg";s:5:"width";i:1200;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:178869;}s:14:"portolite-card";a:5:{s:4:"file";s:31:"main-slider-img-2-1-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50613;}s:16:"portolite-avatar";a:5:{s:4:"file";s:31:"main-slider-img-2-1-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6878;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[A car raised on a two-post lift inside a busy garage]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -228,6 +238,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:31:"2025/06/main-slider-img-3-1.jpg";s:8:"filesize";i:382129;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:31:"main-slider-img-3-1-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17777;}s:5:"large";a:5:{s:4:"file";s:32:"main-slider-img-3-1-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:144298;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"main-slider-img-3-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6774;}s:12:"medium_large";a:5:{s:4:"file";s:31:"main-slider-img-3-1-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:88605;}s:14:"portolite-hero";a:5:{s:4:"file";s:32:"main-slider-img-3-1-1200x900.jpg";s:5:"width";i:1200;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:190423;}s:14:"portolite-card";a:5:{s:4:"file";s:31:"main-slider-img-3-1-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58851;}s:16:"portolite-avatar";a:5:{s:4:"file";s:31:"main-slider-img-3-1-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7360;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[A technician at the workbench in a workshop, a wheel propped beside them]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[about-one-img-1]]></title>
@@ -260,6 +274,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:29:"2025/06/about-one-img-1-1.jpg";s:8:"filesize";i:233847;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:29:"about-one-img-1-1-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10898;}s:5:"large";a:5:{s:4:"file";s:30:"about-one-img-1-1-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:75089;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"about-one-img-1-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4884;}s:12:"medium_large";a:5:{s:4:"file";s:29:"about-one-img-1-1-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45637;}s:14:"portolite-hero";a:5:{s:4:"file";s:30:"about-one-img-1-1-1200x900.jpg";s:5:"width";i:1200;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:102399;}s:14:"portolite-card";a:5:{s:4:"file";s:29:"about-one-img-1-1-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30743;}s:16:"portolite-avatar";a:5:{s:4:"file";s:29:"about-one-img-1-1-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5124;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[A mechanic looking up at the underside of a car raised on a workshop lift]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -294,6 +312,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:330;s:6:"height";i:80;s:4:"file";s:25:"2025/06/brand-1-4-1-1.png";s:8:"filesize";i:3427;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:24:"brand-1-4-1-1-300x73.png";s:5:"width";i:300;s:6:"height";i:73;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4961;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"brand-1-4-1-1-150x80.png";s:5:"width";i:150;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2108;}s:16:"portolite-avatar";a:5:{s:4:"file";s:24:"brand-1-4-1-1-160x80.png";s:5:"width";i:160;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2191;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Ironclad Motors]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[brand-1-3]]></title>
@@ -327,6 +349,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:330;s:6:"height";i:80;s:4:"file";s:25:"2025/06/brand-1-3-1-1.png";s:8:"filesize";i:2437;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:24:"brand-1-3-1-1-300x73.png";s:5:"width";i:300;s:6:"height";i:73;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3308;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"brand-1-3-1-1-150x80.png";s:5:"width";i:150;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1559;}s:16:"portolite-avatar";a:5:{s:4:"file";s:24:"brand-1-3-1-1-160x80.png";s:5:"width";i:160;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1716;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Redline Parts]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[brand-1-1]]></title>
@@ -359,6 +385,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:330;s:6:"height";i:80;s:4:"file";s:25:"2025/06/brand-1-1-1-1.png";s:8:"filesize";i:2684;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:24:"brand-1-1-1-1-300x73.png";s:5:"width";i:300;s:6:"height";i:73;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4131;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"brand-1-1-1-1-150x80.png";s:5:"width";i:150;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1418;}s:16:"portolite-avatar";a:5:{s:4:"file";s:24:"brand-1-1-1-1-160x80.png";s:5:"width";i:160;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1586;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Northgate Auto]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -401,6 +431,10 @@
 		<wp:meta_key><![CDATA[_uic_file_hash_fingerprint]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3293:1784918073]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Torqueworks]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[brand-1-5]]></title>
@@ -433,6 +467,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:330;s:6:"height";i:80;s:4:"file";s:25:"2025/06/brand-1-5-1-1.png";s:8:"filesize";i:2398;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:24:"brand-1-5-1-1-300x73.png";s:5:"width";i:300;s:6:"height";i:73;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2960;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"brand-1-5-1-1-150x80.png";s:5:"width";i:150;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2036;}s:16:"portolite-avatar";a:5:{s:4:"file";s:24:"brand-1-5-1-1-160x80.png";s:5:"width";i:160;s:6:"height";i:80;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2147;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Apex Drive]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -475,6 +513,10 @@
 		<wp:meta_key><![CDATA[_uic_file_hash_fingerprint]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3293:1784918073]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Torqueworks]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Workshop hero]]></title>
@@ -508,6 +550,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:29:"2026/07/main-slider-img-1.jpg";s:8:"filesize";i:415524;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:29:"main-slider-img-1-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22893;}s:5:"large";a:5:{s:4:"file";s:30:"main-slider-img-1-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:168224;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"main-slider-img-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8794;}s:12:"medium_large";a:5:{s:4:"file";s:29:"main-slider-img-1-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:107375;}s:14:"portolite-hero";a:5:{s:4:"file";s:30:"main-slider-img-1-1200x900.jpg";s:5:"width";i:1200;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:217658;}s:14:"portolite-card";a:5:{s:4:"file";s:29:"main-slider-img-1-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72025;}s:16:"portolite-avatar";a:5:{s:4:"file";s:29:"main-slider-img-1-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9643;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Two cars side by side on ramps in a service workshop, bonnets open]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Inside the workshop]]></title>
@@ -540,6 +586,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:29:"2026/07/main-slider-img-2.jpg";s:8:"filesize";i:230822;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:29:"main-slider-img-2-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12741;}s:5:"large";a:5:{s:4:"file";s:30:"main-slider-img-2-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82843;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"main-slider-img-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5564;}s:12:"medium_large";a:5:{s:4:"file";s:29:"main-slider-img-2-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51450;}s:14:"portolite-hero";a:5:{s:4:"file";s:30:"main-slider-img-2-1200x900.jpg";s:5:"width";i:1200;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:111141;}s:14:"portolite-card";a:5:{s:4:"file";s:29:"main-slider-img-2-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35545;}s:16:"portolite-avatar";a:5:{s:4:"file";s:29:"main-slider-img-2-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5902;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[A technician leaning into an engine bay, working by the light of a torch]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -902,6 +952,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:900;s:6:"height";i:900;s:4:"file";s:25:"2025/06/gallery-1-6-1.jpg";s:8:"filesize";i:120046;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:25:"gallery-1-6-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19062;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"gallery-1-6-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6642;}s:12:"medium_large";a:5:{s:4:"file";s:25:"gallery-1-6-1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:76496;}s:14:"portolite-card";a:5:{s:4:"file";s:25:"gallery-1-6-1-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:39601;}s:16:"portolite-avatar";a:5:{s:4:"file";s:25:"gallery-1-6-1-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6987;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[A classic sports car raised on a two-post lift, seen from behind]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[gallery-1-4]]></title>
@@ -934,6 +988,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:900;s:6:"height";i:900;s:4:"file";s:25:"2025/06/gallery-1-4-1.jpg";s:8:"filesize";i:147981;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:25:"gallery-1-4-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21724;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"gallery-1-4-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7229;}s:12:"medium_large";a:5:{s:4:"file";s:25:"gallery-1-4-1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:92765;}s:14:"portolite-card";a:5:{s:4:"file";s:25:"gallery-1-4-1-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52103;}s:16:"portolite-avatar";a:5:{s:4:"file";s:25:"gallery-1-4-1-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7737;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Cars parked under the lights of a race preparation workshop]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -968,6 +1026,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:900;s:6:"height";i:900;s:4:"file";s:25:"2025/06/gallery-1-5-1.jpg";s:8:"filesize";i:190548;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:25:"gallery-1-5-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25930;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"gallery-1-5-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8126;}s:12:"medium_large";a:5:{s:4:"file";s:25:"gallery-1-5-1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:119778;}s:14:"portolite-card";a:5:{s:4:"file";s:25:"gallery-1-5-1-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66088;}s:16:"portolite-avatar";a:5:{s:4:"file";s:25:"gallery-1-5-1-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8738;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[A classic car body shell in bare metal, standing on axle stands]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[gallery-1-3]]></title>
@@ -1000,6 +1062,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:900;s:6:"height";i:900;s:4:"file";s:25:"2025/06/gallery-1-3-1.jpg";s:8:"filesize";i:154444;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:25:"gallery-1-3-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24989;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"gallery-1-3-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7945;}s:12:"medium_large";a:5:{s:4:"file";s:25:"gallery-1-3-1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:105526;}s:14:"portolite-card";a:5:{s:4:"file";s:25:"gallery-1-3-1-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60434;}s:16:"portolite-avatar";a:5:{s:4:"file";s:25:"gallery-1-3-1-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8558;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Hoses and wiring across an engine bay, in black and white]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1034,6 +1100,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:900;s:6:"height";i:900;s:4:"file";s:25:"2025/06/gallery-1-2-1.jpg";s:8:"filesize";i:123222;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:25:"gallery-1-2-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20365;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"gallery-1-2-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7775;}s:12:"medium_large";a:5:{s:4:"file";s:25:"gallery-1-2-1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79022;}s:14:"portolite-card";a:5:{s:4:"file";s:25:"gallery-1-2-1-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41629;}s:16:"portolite-avatar";a:5:{s:4:"file";s:25:"gallery-1-2-1-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8185;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[An open tool drawer of combination spanners and sockets]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[gallery-1-1]]></title>
@@ -1066,6 +1136,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:900;s:6:"height";i:900;s:4:"file";s:25:"2025/06/gallery-1-1-1.jpg";s:8:"filesize";i:92634;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:25:"gallery-1-1-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17322;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"gallery-1-1-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6550;}s:12:"medium_large";a:5:{s:4:"file";s:25:"gallery-1-1-1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62901;}s:14:"portolite-card";a:5:{s:4:"file";s:25:"gallery-1-1-1-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36955;}s:16:"portolite-avatar";a:5:{s:4:"file";s:25:"gallery-1-1-1-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6980;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[A close view of a partly dismantled engine, its components exposed]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1199,6 +1273,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:31:"2025/06/contact-one-img-1-1.jpg";s:8:"filesize";i:225467;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:31:"contact-one-img-1-1-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14522;}s:5:"large";a:5:{s:4:"file";s:32:"contact-one-img-1-1-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:92327;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"contact-one-img-1-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6433;}s:12:"medium_large";a:5:{s:4:"file";s:31:"contact-one-img-1-1-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60461;}s:14:"portolite-hero";a:5:{s:4:"file";s:32:"contact-one-img-1-1-1200x900.jpg";s:5:"width";i:1200;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:119721;}s:14:"portolite-card";a:5:{s:4:"file";s:31:"contact-one-img-1-1-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42346;}s:16:"portolite-avatar";a:5:{s:4:"file";s:31:"contact-one-img-1-1-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6784;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[A red car raised on a two-post lift above a second car in the workshop]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[about-five-img-1]]></title>
@@ -1231,6 +1309,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:30:"2025/06/about-five-img-1-1.jpg";s:8:"filesize";i:300519;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:30:"about-five-img-1-1-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16178;}s:5:"large";a:5:{s:4:"file";s:31:"about-five-img-1-1-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:116079;}s:9:"thumbnail";a:5:{s:4:"file";s:30:"about-five-img-1-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6543;}s:12:"medium_large";a:5:{s:4:"file";s:30:"about-five-img-1-1-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73134;}s:14:"portolite-hero";a:5:{s:4:"file";s:31:"about-five-img-1-1-1200x900.jpg";s:5:"width";i:1200;s:6:"height";i:900;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:151067;}s:14:"portolite-card";a:5:{s:4:"file";s:30:"about-five-img-1-1-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49732;}s:16:"portolite-avatar";a:5:{s:4:"file";s:30:"about-five-img-1-1-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7077;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[A technician lying beneath the front of a red car on a trolley jack, with a socket set and hand tools laid out on the garage floor]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1265,6 +1347,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:900;s:6:"height";i:900;s:4:"file";s:30:"2025/06/team-two-img-1-1-1.jpg";s:8:"filesize";i:153065;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:30:"team-two-img-1-1-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26272;}s:9:"thumbnail";a:5:{s:4:"file";s:30:"team-two-img-1-1-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8995;}s:12:"medium_large";a:5:{s:4:"file";s:30:"team-two-img-1-1-1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:99425;}s:14:"portolite-card";a:5:{s:4:"file";s:30:"team-two-img-1-1-1-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56614;}s:16:"portolite-avatar";a:5:{s:4:"file";s:30:"team-two-img-1-1-1-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9675;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Two technicians working overhead on the underside of a vehicle raised on the workshop lift]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[testimonial-two-img-1]]></title>
@@ -1297,6 +1383,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:800;s:6:"height";i:900;s:4:"file";s:35:"2025/06/testimonial-two-img-1-1.jpg";s:8:"filesize";i:98495;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:35:"testimonial-two-img-1-1-267x300.jpg";s:5:"width";i:267;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12607;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"testimonial-two-img-1-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5374;}s:12:"medium_large";a:5:{s:4:"file";s:35:"testimonial-two-img-1-1-768x864.jpg";s:5:"width";i:768;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68726;}s:14:"portolite-card";a:5:{s:4:"file";s:35:"testimonial-two-img-1-1-600x450.jpg";s:5:"width";i:600;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37969;}s:16:"portolite-avatar";a:5:{s:4:"file";s:35:"testimonial-two-img-1-1-160x160.jpg";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5781;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[A bearded man in a checked shirt smiling towards the camera]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1641,119 +1731,7 @@
 		<wp:meta_value><![CDATA[/team/]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Privacy Policy]]></title>
-		<link>http://localhost/car-repair/?page_id=3</link>
-		<pubDate>Sun, 02 Nov 2025 16:29:03 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">Who we are</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://localhost/car-repair.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Comments</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Media</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Cookies</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Embedded content from other websites</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Who we share your data with</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">How long we retain your data</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">What rights you have over your data</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Where your data is sent</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p>
-<!-- /wp:paragraph -->
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2025-11-02 16:29:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-11-02 16:29:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-25 04:32:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-25 04:32:15]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1784953935]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[privacy-policy]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
+									<item>
 		<title><![CDATA[Home]]></title>
 		<link>http://localhost/car-repair/</link>
 		<pubDate>Fri, 24 Jul 2026 11:43:43 +0000</pubDate>
@@ -5796,185 +5774,6 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[What a full service actually includes]]></title>
-		<link>http://localhost/car-repair/what-a-full-service-actually-includes/</link>
-		<pubDate>Tue, 21 Jul 2026 13:05:29 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/what-a-full-service-actually-includes/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>"Full service" is not a defined term. It means whatever the garage quoting you decides it means, which is why two quotes for the same words can differ by an hour of labour and four consumable parts.</p>
-<h2>The list worth asking for</h2>
-<p>A service that deserves the name replaces the engine oil and its filter, the air filter and the cabin filter, and checks the fluids that are not on a replacement schedule — brake fluid, coolant, screenwash. Spark plugs come out at the interval the manufacturer sets, not every visit.</p>
-<p>Beyond the parts, the car should go on a lift so that brakes, suspension joints, exhaust mountings and tyre wear are looked at rather than guessed at from outside.</p>
-<h2>What you should get back</h2>
-<p>A written record of what was replaced, what was checked, and what is approaching the end of its life but does not need doing yet. That last category is the one that separates a service report from an invoice.</p>
-<blockquote><p>If a report has no "not yet, but soon" section, either the car is brand new or nobody looked properly.</p></blockquote>
-<p>Keep the paperwork. It is worth real money when you sell the car, and it is what keeps a manufacturer warranty intact when the servicing is done outside the dealer network.</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[Two garages can quote the same price for a "full service" and do very different amounts of work. Here is the list to ask for.]]></excerpt:encoded>
-		<wp:post_id>358</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-21 13:05:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-21 13:05:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-21 13:05:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-21 13:05:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[what-a-full-service-actually-includes]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="costs"><![CDATA[costs]]></category>
-		<category domain="post_tag" nicename="maintenance"><![CDATA[maintenance]]></category>
-		<category domain="category" nicename="servicing"><![CDATA[Servicing]]></category>
-		<category domain="post_tag" nicename="servicing"><![CDATA[servicing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[120]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[Sam Whitfield]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[sam@example.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2026-07-22 13:05:30]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2026-07-22 13:05:30]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Useful list. Mine came back with "brakes checked" and nothing else written down — I will ask for the measurement next time.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>3</wp:comment_id>
-			<wp:comment_author><![CDATA[Aisha Karim]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[aisha@example.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2026-07-23 13:05:30]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2026-07-23 13:05:30]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Always ask for it in millimetres. Any workshop that measured them can tell you the number without looking twice.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>2</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title><![CDATA[That warning light, and what it does not mean]]></title>
-		<link>http://localhost/car-repair/that-warning-light-and-what-it-does-not-mean/</link>
-		<pubDate>Tue, 14 Jul 2026 13:05:29 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/that-warning-light-and-what-it-does-not-mean/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>An engine management light means the car has stored a fault code. The code describes what the car noticed, not what is broken — and the difference between those two things is most of the bill.</p>
-<h2>An example worth remembering</h2>
-<p>A code reading "oxygen sensor, bank 1" is frequently not a failed sensor. The sensor is reporting a mixture that is outside the expected range, which a small vacuum leak upstream will do quite happily with a perfectly good sensor fitted.</p>
-<p>Replace the sensor and the light goes out for a fortnight. The leak is still there.</p>
-<h2>What a diagnosis looks like</h2>
-<p>Read the code, then verify it. Live data while the engine runs, a smoke test if a leak is suspected, and a comparison against what the manufacturer says the reading should be at that temperature and load. Only then is a part worth ordering.</p>
-<p>It takes longer on the first visit. It is the reason there is not a second one.</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[A fault code is a symptom with a number on it. Replacing the part the code names is how people end up paying twice.]]></excerpt:encoded>
-		<wp:post_id>359</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-14 13:05:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-14 13:05:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-14 13:05:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-14 13:05:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[that-warning-light-and-what-it-does-not-mean]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="diagnostics"><![CDATA[Diagnostics]]></category>
-		<category domain="post_tag" nicename="diagnostics"><![CDATA[diagnostics]]></category>
-		<category domain="post_tag" nicename="warning-lights"><![CDATA[warning lights]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[171]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Brake pads: when thin becomes urgent]]></title>
-		<link>http://localhost/car-repair/brake-pads-when-thin-becomes-urgent/</link>
-		<pubDate>Tue, 07 Jul 2026 13:05:29 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/brake-pads-when-thin-becomes-urgent/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>A new brake pad has somewhere between ten and twelve millimetres of friction material. It is worn out at about three, and most manufacturers want it changed before it reaches two.</p>
-<h2>Why mileage is a poor guide</h2>
-<p>The same pads can last eighty thousand miles on a motorway commute and twenty thousand on short urban journeys with a hilly route home. Weight matters, driving style matters more, and towing changes the arithmetic completely.</p>
-<p>This is why a garage should tell you the measurement rather than a verdict. "Four millimetres left" tells you roughly a year; "they are getting low" tells you nothing you can plan around.</p>
-<h2>The noises, in order of urgency</h2>
-<p>A light squeal on the first application of the morning is usually surface rust and clears in a few stops. A steady metallic scrape is the wear indicator or the backing plate, and that one is not a next-month job.</p>
-<p>A pulsing pedal is a separate problem: that is the disc, not the pad.</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[Pads wear at very different rates depending on how and where you drive. Millimetres, not months, are what matter.]]></excerpt:encoded>
-		<wp:post_id>360</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-07 13:05:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-07 13:05:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-07 13:05:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-07 13:05:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[brake-pads-when-thin-becomes-urgent]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="brakes"><![CDATA[Brakes]]></category>
-		<category domain="post_tag" nicename="brakes"><![CDATA[brakes]]></category>
-		<category domain="post_tag" nicename="maintenance"><![CDATA[maintenance]]></category>
-		<category domain="post_tag" nicename="safety"><![CDATA[safety]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[144]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Getting the air conditioning ready before summer]]></title>
-		<link>http://localhost/car-repair/getting-the-air-conditioning-ready-before-summer/</link>
-		<pubDate>Tue, 30 Jun 2026 13:05:30 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/getting-the-air-conditioning-ready-before-summer/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>An air conditioning system is not sealed the way a fridge is. It loses a small percentage of its refrigerant every year through the flexible hoses and the compressor shaft seal, and that is normal.</p>
-<h2>Why the timing matters</h2>
-<p>Everybody discovers their air conditioning is weak in the same fortnight, which is the fortnight it is hardest to get an appointment. Booked in spring it is a routine job.</p>
-<h2>What a regas should include</h2>
-<p>Recovering what is left, weighing it, pulling a vacuum to check the system holds it, and refilling to the exact weight the manufacturer specifies. If a system has lost a lot, the honest next step is a leak test with dye rather than simply filling it again.</p>
-<p>Refilling a leaking system is not a repair. It is a subscription.</p>
-<p>While the system is open, the cabin filter is worth replacing — most of what people describe as a smell from the vents is the filter rather than the system.</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[Systems lose a little refrigerant every year by design. The cheap time to deal with that is before the first warm week.]]></excerpt:encoded>
-		<wp:post_id>361</wp:post_id>
-		<wp:post_date><![CDATA[2026-06-30 13:05:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-06-30 13:05:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-30 13:05:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-30 13:05:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[getting-the-air-conditioning-ready-before-summer]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="air-conditioning"><![CDATA[air conditioning]]></category>
-		<category domain="post_tag" nicename="maintenance"><![CDATA[maintenance]]></category>
-		<category domain="category" nicename="servicing"><![CDATA[Servicing]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[180]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Home Classic]]></title>
 		<link>http://localhost/car-repair/home-classic/</link>
 		<pubDate>Fri, 24 Jul 2026 13:42:11 +0000</pubDate>
@@ -8957,6 +8756,234 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/car-repair/430/</link>
+		<pubDate>Tue, 18 Aug 2026 15:24:28 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/430/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>430</wp:post_id>
+		<wp:post_date><![CDATA[2026-08-18 15:24:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 15:24:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[430]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[350]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/car-repair/431/</link>
+		<pubDate>Tue, 18 Aug 2026 15:24:28 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/431/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>431</wp:post_id>
+		<wp:post_date><![CDATA[2026-08-18 15:24:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 15:24:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[431]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[351]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/car-repair/432/</link>
+		<pubDate>Tue, 18 Aug 2026 15:24:28 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/432/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>432</wp:post_id>
+		<wp:post_date><![CDATA[2026-08-18 15:24:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 15:24:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[432]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[357]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/car-repair/433/</link>
+		<pubDate>Tue, 18 Aug 2026 15:24:28 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/433/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>433</wp:post_id>
+		<wp:post_date><![CDATA[2026-08-18 15:24:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 15:24:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[433]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[352]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Hello world!]]></title>
 		<link>http://localhost/car-repair/hello-world/</link>
 		<pubDate>Sun, 02 Nov 2025 16:29:03 +0000</pubDate>
@@ -9608,6 +9635,185 @@ performance and longevity of your vehicle. From oil changes and tire rotations t
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[What a full service actually includes]]></title>
+		<link>http://localhost/car-repair/what-a-full-service-actually-includes/</link>
+		<pubDate>Tue, 21 Jul 2026 13:05:29 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/what-a-full-service-actually-includes/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>"Full service" is not a defined term. It means whatever the garage quoting you decides it means, which is why two quotes for the same words can differ by an hour of labour and four consumable parts.</p>
+<h2>The list worth asking for</h2>
+<p>A service that deserves the name replaces the engine oil and its filter, the air filter and the cabin filter, and checks the fluids that are not on a replacement schedule — brake fluid, coolant, screenwash. Spark plugs come out at the interval the manufacturer sets, not every visit.</p>
+<p>Beyond the parts, the car should go on a lift so that brakes, suspension joints, exhaust mountings and tyre wear are looked at rather than guessed at from outside.</p>
+<h2>What you should get back</h2>
+<p>A written record of what was replaced, what was checked, and what is approaching the end of its life but does not need doing yet. That last category is the one that separates a service report from an invoice.</p>
+<blockquote><p>If a report has no "not yet, but soon" section, either the car is brand new or nobody looked properly.</p></blockquote>
+<p>Keep the paperwork. It is worth real money when you sell the car, and it is what keeps a manufacturer warranty intact when the servicing is done outside the dealer network.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Two garages can quote the same price for a "full service" and do very different amounts of work. Here is the list to ask for.]]></excerpt:encoded>
+		<wp:post_id>358</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-21 13:05:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-21 13:05:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-07-21 13:05:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-07-21 13:05:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[what-a-full-service-actually-includes]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="costs"><![CDATA[costs]]></category>
+		<category domain="post_tag" nicename="maintenance"><![CDATA[maintenance]]></category>
+		<category domain="category" nicename="servicing"><![CDATA[Servicing]]></category>
+		<category domain="post_tag" nicename="servicing"><![CDATA[servicing]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[120]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[Sam Whitfield]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sam@example.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2026-07-22 13:05:30]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2026-07-22 13:05:30]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Useful list. Mine came back with "brakes checked" and nothing else written down — I will ask for the measurement next time.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>3</wp:comment_id>
+			<wp:comment_author><![CDATA[Aisha Karim]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[aisha@example.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2026-07-23 13:05:30]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2026-07-23 13:05:30]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Always ask for it in millimetres. Any workshop that measured them can tell you the number without looking twice.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>2</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title><![CDATA[That warning light, and what it does not mean]]></title>
+		<link>http://localhost/car-repair/that-warning-light-and-what-it-does-not-mean/</link>
+		<pubDate>Tue, 14 Jul 2026 13:05:29 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/that-warning-light-and-what-it-does-not-mean/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>An engine management light means the car has stored a fault code. The code describes what the car noticed, not what is broken — and the difference between those two things is most of the bill.</p>
+<h2>An example worth remembering</h2>
+<p>A code reading "oxygen sensor, bank 1" is frequently not a failed sensor. The sensor is reporting a mixture that is outside the expected range, which a small vacuum leak upstream will do quite happily with a perfectly good sensor fitted.</p>
+<p>Replace the sensor and the light goes out for a fortnight. The leak is still there.</p>
+<h2>What a diagnosis looks like</h2>
+<p>Read the code, then verify it. Live data while the engine runs, a smoke test if a leak is suspected, and a comparison against what the manufacturer says the reading should be at that temperature and load. Only then is a part worth ordering.</p>
+<p>It takes longer on the first visit. It is the reason there is not a second one.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[A fault code is a symptom with a number on it. Replacing the part the code names is how people end up paying twice.]]></excerpt:encoded>
+		<wp:post_id>359</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-14 13:05:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-14 13:05:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-07-14 13:05:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-07-14 13:05:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[that-warning-light-and-what-it-does-not-mean]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="diagnostics"><![CDATA[Diagnostics]]></category>
+		<category domain="post_tag" nicename="diagnostics"><![CDATA[diagnostics]]></category>
+		<category domain="post_tag" nicename="warning-lights"><![CDATA[warning lights]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[171]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Brake pads: when thin becomes urgent]]></title>
+		<link>http://localhost/car-repair/brake-pads-when-thin-becomes-urgent/</link>
+		<pubDate>Tue, 07 Jul 2026 13:05:29 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/brake-pads-when-thin-becomes-urgent/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>A new brake pad has somewhere between ten and twelve millimetres of friction material. It is worn out at about three, and most manufacturers want it changed before it reaches two.</p>
+<h2>Why mileage is a poor guide</h2>
+<p>The same pads can last eighty thousand miles on a motorway commute and twenty thousand on short urban journeys with a hilly route home. Weight matters, driving style matters more, and towing changes the arithmetic completely.</p>
+<p>This is why a garage should tell you the measurement rather than a verdict. "Four millimetres left" tells you roughly a year; "they are getting low" tells you nothing you can plan around.</p>
+<h2>The noises, in order of urgency</h2>
+<p>A light squeal on the first application of the morning is usually surface rust and clears in a few stops. A steady metallic scrape is the wear indicator or the backing plate, and that one is not a next-month job.</p>
+<p>A pulsing pedal is a separate problem: that is the disc, not the pad.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Pads wear at very different rates depending on how and where you drive. Millimetres, not months, are what matter.]]></excerpt:encoded>
+		<wp:post_id>360</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-07 13:05:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-07 13:05:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-07-07 13:05:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-07-07 13:05:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[brake-pads-when-thin-becomes-urgent]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="brakes"><![CDATA[brakes]]></category>
+		<category domain="category" nicename="brakes"><![CDATA[Brakes]]></category>
+		<category domain="post_tag" nicename="maintenance"><![CDATA[maintenance]]></category>
+		<category domain="post_tag" nicename="safety"><![CDATA[safety]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[144]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Getting the air conditioning ready before summer]]></title>
+		<link>http://localhost/car-repair/getting-the-air-conditioning-ready-before-summer/</link>
+		<pubDate>Tue, 30 Jun 2026 13:05:30 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/getting-the-air-conditioning-ready-before-summer/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>An air conditioning system is not sealed the way a fridge is. It loses a small percentage of its refrigerant every year through the flexible hoses and the compressor shaft seal, and that is normal.</p>
+<h2>Why the timing matters</h2>
+<p>Everybody discovers their air conditioning is weak in the same fortnight, which is the fortnight it is hardest to get an appointment. Booked in spring it is a routine job.</p>
+<h2>What a regas should include</h2>
+<p>Recovering what is left, weighing it, pulling a vacuum to check the system holds it, and refilling to the exact weight the manufacturer specifies. If a system has lost a lot, the honest next step is a leak test with dye rather than simply filling it again.</p>
+<p>Refilling a leaking system is not a repair. It is a subscription.</p>
+<p>While the system is open, the cabin filter is worth replacing — most of what people describe as a smell from the vents is the filter rather than the system.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Systems lose a little refrigerant every year by design. The cheap time to deal with that is before the first warm week.]]></excerpt:encoded>
+		<wp:post_id>361</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-30 13:05:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-30 13:05:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-30 13:05:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-30 13:05:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[getting-the-air-conditioning-ready-before-summer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="air-conditioning"><![CDATA[air conditioning]]></category>
+		<category domain="post_tag" nicename="maintenance"><![CDATA[maintenance]]></category>
+		<category domain="category" nicename="servicing"><![CDATA[Servicing]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[180]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Buying a used car: what an inspection finds]]></title>
 		<link>http://localhost/car-repair/buying-a-used-car-what-an-inspection-finds/</link>
 		<pubDate>Tue, 23 Jun 2026 13:05:30 +0000</pubDate>
@@ -9635,8 +9841,8 @@ performance and longevity of your vehicle. From oil changes and tire rotations t
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="buying-advice"><![CDATA[Buying advice]]></category>
-		<category domain="post_tag" nicename="buying-advice"><![CDATA[buying advice]]></category>
+										<category domain="post_tag" nicename="buying-advice"><![CDATA[buying advice]]></category>
+		<category domain="category" nicename="buying-advice"><![CDATA[Buying advice]]></category>
 		<category domain="post_tag" nicename="costs"><![CDATA[costs]]></category>
 		<category domain="post_tag" nicename="inspection"><![CDATA[inspection]]></category>
 						<wp:postmeta>
