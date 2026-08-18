@@ -7,7 +7,7 @@
 			"id": "car-repair",
 			"name": "Car Repair Services",
 			"description": "A full workshop site: services, pricing, the technicians, testimonials, FAQs and a contact page with a booking form.",
-			"version": "1.2",
+			"version": "1.3",
 			"updated": "2026-08-18",
 			"requires": "1.0.0",
 			"category": "Car Repair",

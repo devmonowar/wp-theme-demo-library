@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.0.4" created="2026-08-18 15:43" -->
+	<!-- generator="WordPress/7.0.4" created="2026-08-18 17:03" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Car Repair Services</title>
 	<link>http://localhost/car-repair</link>
 	<description></description>
-	<pubDate>Tue, 18 Aug 2026 15:43:02 +0000</pubDate>
+	<pubDate>Tue, 18 Aug 2026 17:03:33 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/car-repair</wp:base_site_url>
@@ -1735,7 +1735,7 @@
 		<title><![CDATA[Home]]></title>
 		<link>http://localhost/car-repair/</link>
 		<pubDate>Fri, 24 Jul 2026 11:43:43 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1743,8 +1743,8 @@
 		<wp:post_id>349</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-24 11:43:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-24 11:43:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 11:43:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 11:43:43]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -3255,7 +3255,7 @@
 		<title><![CDATA[About]]></title>
 		<link>http://localhost/car-repair/about/</link>
 		<pubDate>Fri, 24 Jul 2026 12:25:49 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/about/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3263,8 +3263,8 @@
 		<wp:post_id>350</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-24 12:25:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-24 12:25:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 12:25:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 12:25:49]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -3799,7 +3799,7 @@
 		<title><![CDATA[Services]]></title>
 		<link>http://localhost/car-repair/services/</link>
 		<pubDate>Fri, 24 Jul 2026 12:27:55 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/services/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3807,8 +3807,8 @@
 		<wp:post_id>351</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-24 12:27:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-24 12:27:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 12:27:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 12:27:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services]]></wp:post_name>
@@ -4727,7 +4727,7 @@
 		<title><![CDATA[Contact]]></title>
 		<link>http://localhost/car-repair/contact/</link>
 		<pubDate>Fri, 24 Jul 2026 12:30:00 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/contact/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -4735,8 +4735,8 @@
 		<wp:post_id>352</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-24 12:30:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-24 12:30:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 12:30:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 12:30:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -5097,7 +5097,7 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<title><![CDATA[Aisha Karim]]></title>
 		<link>http://localhost/car-repair/team/aisha-karim/</link>
 		<pubDate>Fri, 24 Jul 2026 12:57:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/team/aisha-karim/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5105,8 +5105,8 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:post_id>353</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-24 12:57:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-24 12:57:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 18:35:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 18:35:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[aisha-karim]]></wp:post_name>
@@ -5269,7 +5269,7 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<title><![CDATA[Tom Becker]]></title>
 		<link>http://localhost/car-repair/team/tom-becker/</link>
 		<pubDate>Fri, 24 Jul 2026 12:57:06 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/team/tom-becker/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5277,8 +5277,8 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:post_id>354</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-24 12:57:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-24 12:57:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 18:35:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 18:35:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tom-becker]]></wp:post_name>
@@ -5425,7 +5425,7 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<title><![CDATA[Grace Oduya]]></title>
 		<link>http://localhost/car-repair/team/grace-oduya/</link>
 		<pubDate>Fri, 24 Jul 2026 12:57:06 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/team/grace-oduya/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5433,8 +5433,8 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:post_id>355</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-24 12:57:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-24 12:57:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 18:35:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 18:35:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[grace-oduya]]></wp:post_name>
@@ -5597,7 +5597,7 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<title><![CDATA[Marco Ferreira]]></title>
 		<link>http://localhost/car-repair/team/marco-ferreira/</link>
 		<pubDate>Fri, 24 Jul 2026 12:57:06 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/team/marco-ferreira/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5605,8 +5605,8 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:post_id>356</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-24 12:57:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-24 12:57:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 18:35:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 18:35:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[marco-ferreira]]></wp:post_name>
@@ -5753,7 +5753,7 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<title><![CDATA[Blog]]></title>
 		<link>http://localhost/car-repair/blog/</link>
 		<pubDate>Fri, 24 Jul 2026 13:05:29 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/blog/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5761,8 +5761,8 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:post_id>357</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-24 13:05:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-24 13:05:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 13:05:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 13:05:29]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -5777,7 +5777,7 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<title><![CDATA[Home Classic]]></title>
 		<link>http://localhost/car-repair/home-classic/</link>
 		<pubDate>Fri, 24 Jul 2026 13:42:11 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/home-classic/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -5785,8 +5785,8 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:post_id>363</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-24 13:42:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-24 13:42:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 13:42:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 13:42:11]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-classic]]></wp:post_name>
@@ -7125,7 +7125,7 @@ One payment]]></wp:meta_value>
 		<title><![CDATA[Home Centered]]></title>
 		<link>http://localhost/car-repair/home-centered/</link>
 		<pubDate>Sat, 25 Jul 2026 04:39:50 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/home-centered/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -7133,8 +7133,8 @@ One payment]]></wp:meta_value>
 		<wp:post_id>392</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-25 04:39:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-25 04:39:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-25 04:39:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-25 04:39:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-centered]]></wp:post_name>
@@ -8431,7 +8431,7 @@ One payment]]></wp:meta_value>
 		<title><![CDATA[Erik Lindqvist]]></title>
 		<link>http://localhost/car-repair/team/erik-lindqvist/</link>
 		<pubDate>Fri, 14 Aug 2026 15:53:49 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/team/erik-lindqvist/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -8439,8 +8439,8 @@ One payment]]></wp:meta_value>
 		<wp:post_id>420</wp:post_id>
 		<wp:post_date><![CDATA[2026-08-14 15:53:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-08-14 15:53:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-14 15:53:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-14 15:53:49]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[erik-lindqvist]]></wp:post_name>
@@ -8603,7 +8603,7 @@ One payment]]></wp:meta_value>
 		<title><![CDATA[Luca Moretti]]></title>
 		<link>http://localhost/car-repair/team/luca-moretti/</link>
 		<pubDate>Fri, 14 Aug 2026 15:53:51 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/team/luca-moretti/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -8611,8 +8611,8 @@ One payment]]></wp:meta_value>
 		<wp:post_id>422</wp:post_id>
 		<wp:post_date><![CDATA[2026-08-14 15:53:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-08-14 15:53:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-14 15:53:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-14 15:53:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[luca-moretti]]></wp:post_name>
@@ -9638,7 +9638,7 @@ performance and longevity of your vehicle. From oil changes and tire rotations t
 		<title><![CDATA[What a full service actually includes]]></title>
 		<link>http://localhost/car-repair/what-a-full-service-actually-includes/</link>
 		<pubDate>Tue, 21 Jul 2026 13:05:29 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/what-a-full-service-actually-includes/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>"Full service" is not a defined term. It means whatever the garage quoting you decides it means, which is why two quotes for the same words can differ by an hour of labour and four consumable parts.</p>
@@ -9653,8 +9653,8 @@ performance and longevity of your vehicle. From oil changes and tire rotations t
 		<wp:post_id>358</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-21 13:05:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-21 13:05:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-21 13:05:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-21 13:05:29]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[what-a-full-service-actually-includes]]></wp:post_name>
@@ -9705,7 +9705,7 @@ performance and longevity of your vehicle. From oil changes and tire rotations t
 		<title><![CDATA[That warning light, and what it does not mean]]></title>
 		<link>http://localhost/car-repair/that-warning-light-and-what-it-does-not-mean/</link>
 		<pubDate>Tue, 14 Jul 2026 13:05:29 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/that-warning-light-and-what-it-does-not-mean/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>An engine management light means the car has stored a fault code. The code describes what the car noticed, not what is broken — and the difference between those two things is most of the bill.</p>
@@ -9719,8 +9719,8 @@ performance and longevity of your vehicle. From oil changes and tire rotations t
 		<wp:post_id>359</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-14 13:05:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-14 13:05:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-14 13:05:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-14 13:05:29]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[that-warning-light-and-what-it-does-not-mean]]></wp:post_name>
@@ -9742,7 +9742,7 @@ performance and longevity of your vehicle. From oil changes and tire rotations t
 		<title><![CDATA[Brake pads: when thin becomes urgent]]></title>
 		<link>http://localhost/car-repair/brake-pads-when-thin-becomes-urgent/</link>
 		<pubDate>Tue, 07 Jul 2026 13:05:29 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/brake-pads-when-thin-becomes-urgent/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>A new brake pad has somewhere between ten and twelve millimetres of friction material. It is worn out at about three, and most manufacturers want it changed before it reaches two.</p>
@@ -9756,8 +9756,8 @@ performance and longevity of your vehicle. From oil changes and tire rotations t
 		<wp:post_id>360</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-07 13:05:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-07 13:05:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-07 13:05:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-07 13:05:29]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[brake-pads-when-thin-becomes-urgent]]></wp:post_name>
@@ -9767,8 +9767,8 @@ performance and longevity of your vehicle. From oil changes and tire rotations t
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="brakes"><![CDATA[brakes]]></category>
-		<category domain="category" nicename="brakes"><![CDATA[Brakes]]></category>
+										<category domain="category" nicename="brakes"><![CDATA[Brakes]]></category>
+		<category domain="post_tag" nicename="brakes"><![CDATA[brakes]]></category>
 		<category domain="post_tag" nicename="maintenance"><![CDATA[maintenance]]></category>
 		<category domain="post_tag" nicename="safety"><![CDATA[safety]]></category>
 						<wp:postmeta>
@@ -9780,7 +9780,7 @@ performance and longevity of your vehicle. From oil changes and tire rotations t
 		<title><![CDATA[Getting the air conditioning ready before summer]]></title>
 		<link>http://localhost/car-repair/getting-the-air-conditioning-ready-before-summer/</link>
 		<pubDate>Tue, 30 Jun 2026 13:05:30 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/getting-the-air-conditioning-ready-before-summer/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>An air conditioning system is not sealed the way a fridge is. It loses a small percentage of its refrigerant every year through the flexible hoses and the compressor shaft seal, and that is normal.</p>
@@ -9794,8 +9794,8 @@ performance and longevity of your vehicle. From oil changes and tire rotations t
 		<wp:post_id>361</wp:post_id>
 		<wp:post_date><![CDATA[2026-06-30 13:05:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-06-30 13:05:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-30 13:05:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-30 13:05:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[getting-the-air-conditioning-ready-before-summer]]></wp:post_name>
@@ -9817,7 +9817,7 @@ performance and longevity of your vehicle. From oil changes and tire rotations t
 		<title><![CDATA[Buying a used car: what an inspection finds]]></title>
 		<link>http://localhost/car-repair/buying-a-used-car-what-an-inspection-finds/</link>
 		<pubDate>Tue, 23 Jun 2026 13:05:30 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/car-repair/buying-a-used-car-what-an-inspection-finds/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>A car that looks straight in a photograph and drives quietly on a ten minute test route can still have several thousand pounds of work waiting for it. Most of what matters is underneath.</p>
@@ -9830,8 +9830,8 @@ performance and longevity of your vehicle. From oil changes and tire rotations t
 		<wp:post_id>362</wp:post_id>
 		<wp:post_date><![CDATA[2026-06-23 13:05:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-06-23 13:05:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-23 13:05:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-23 13:05:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 17:02:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 17:02:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[buying-a-used-car-what-an-inspection-finds]]></wp:post_name>
@@ -9841,8 +9841,8 @@ performance and longevity of your vehicle. From oil changes and tire rotations t
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="buying-advice"><![CDATA[buying advice]]></category>
-		<category domain="category" nicename="buying-advice"><![CDATA[Buying advice]]></category>
+										<category domain="category" nicename="buying-advice"><![CDATA[Buying advice]]></category>
+		<category domain="post_tag" nicename="buying-advice"><![CDATA[buying advice]]></category>
 		<category domain="post_tag" nicename="costs"><![CDATA[costs]]></category>
 		<category domain="post_tag" nicename="inspection"><![CDATA[inspection]]></category>
 						<wp:postmeta>
