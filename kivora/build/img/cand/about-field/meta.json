@@ -1,0 +1,46 @@
+{
+    "1": {
+        "title": "Purple moorland",
+        "creator": "",
+        "licence": "CC0 1.0",
+        "source": "https://www.rawpixel.com/image/5939474/purple-moorland",
+        "provider": "rawpixel",
+        "file": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvc2syMjQtaW1hZ2Uta3d5bnFvN3YuanBn.jpg",
+        "width": 4928,
+        "height": 3264,
+        "query": "moorland heather"
+    },
+    "2": {
+        "title": "Wooden fence, countryside landscape",
+        "creator": "",
+        "licence": "CC0 1.0",
+        "source": "https://www.rawpixel.com/image/6037373/photo-image-public-domain-tree-plant",
+        "provider": "rawpixel",
+        "file": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJnYXRlX3BhcmtfaW5wdXRfd29vZC1pbWFnZS1reWJkbGh4bi5qcGc.jpg",
+        "width": 5616,
+        "height": 3744,
+        "query": "field gate countryside"
+    },
+    "3": {
+        "title": "Walking trail through sequoia trees and a green meadow in Sequoia National Park",
+        "creator": "Jennifer Bourn",
+        "licence": "CC0 1.0",
+        "source": "https://wordpress.org/photos/photo/94761fef65/",
+        "provider": "wordpress",
+        "file": "https://pd.w.org/2022/02/94761fef656b81ef1.71150224-2048x1308.jpg",
+        "width": 2048,
+        "height": 1308,
+        "query": "meadow hills path"
+    },
+    "4": {
+        "title": "The Kohlberg Hill of Pirna here is well known as former NVA Army training area and bull meadow, mixed with hiking trails. The path are more worn than before. A planned train track and highway has been announced here. (33917757425)",
+        "creator": "Bambizoe from Dresden, Germany",
+        "licence": "CC0 1.0",
+        "source": "https://commons.wikimedia.org/w/index.php?curid=85162840",
+        "provider": "wikimedia",
+        "file": "https://upload.wikimedia.org/wikipedia/commons/1/12/The_Kohlberg_Hill_of_Pirna_here_is_well_known_as_former_NVA_Army_training_area_and_bull_meadow%2C_mixed_with_hiking_trails._The_path_are_more_worn_than_before._A_planned_train_track_and_highway_has_been_announced_here._%2833917757425%29.jpg",
+        "width": 2592,
+        "height": 1944,
+        "query": "meadow hills path"
+    }
+}
