@@ -2,6 +2,23 @@
 
 All notable changes to this demo library.
 
+## 2026-08-20
+
+- Added **Fieldnotes** to Kivora: the second and last demo the theme's v1 scope
+  allows, and deliberately the opposite of Creative Studio. A personal journal
+  of walking and writing -- 6 pages, 8 posts across three categories with one
+  sticky post and a comment thread, a gallery page, 10 CC0 photographs, two
+  menus, the sidebar and three of the four footer columns. Its theme settings
+  are chosen to differ from the first demo's (sidebar on the left, none on a
+  single post, no sticky header) so the two together show what those controls
+  do. Imported end to end onto a clean install before publishing.
+- The demo carries no portrait and no identifiable person in any photograph.
+  The CC0 portraits available are photographs of real people, and a demo that
+  lands on other people's sites is the wrong place to carry someone's face.
+- Its footer copyright line names nobody. That string is a setting, not
+  content: it arrives switched on and would otherwise credit a fictional
+  author in the footer of every site that imported the demo.
+
 ## 2026-08-19 (later)
 
 - Kivora's demo card in One Click Demo Import now carries a **Preview Demo**

@@ -1,0 +1,32 @@
+{
+	"schema_version": 1,
+	"id": "fieldnotes",
+	"name": "Fieldnotes",
+	"theme": "kivora",
+	"requires": "1.0.0",
+	"files": {
+		"content": "https://devmonowar.github.io/wp-theme-demo-library/kivora/assets/fieldnotes/content.xml",
+		"widgets": "https://devmonowar.github.io/wp-theme-demo-library/kivora/assets/fieldnotes/widgets.wie",
+		"customizer": "https://devmonowar.github.io/wp-theme-demo-library/kivora/assets/fieldnotes/customizer.dat",
+		"attachments": "https://devmonowar.github.io/wp-theme-demo-library/kivora/assets/fieldnotes/attachments.json"
+	},
+	"setup": {
+		"front_page": "Home",
+		"posts_page": "Journal",
+		"privacy_page": "Privacy policy",
+		"menus": {
+			"primary": "Main Menu",
+			"footer": "Footer Menu"
+		},
+		"source_url": "http://localhost/kivora-demo"
+	},
+	"notice": "No plugins are required. The demo is built from core WordPress blocks and the theme's own patterns, and it puts the sidebar on the left, hides it on single posts, and turns live search on -- so it also shows what the theme's own settings do.",
+	"contains": {
+		"pages": 6,
+		"posts": 8,
+		"comments": 3,
+		"media": 10,
+		"menus": 2,
+		"widget_areas": 4
+	}
+}
