@@ -2,6 +2,13 @@
 
 All notable changes to this demo library.
 
+## 2026-08-19 (later)
+
+- Kivora's demo card in One Click Demo Import now carries a **Preview Demo**
+  button. The manifest had no `preview_url`, so the theme passed an empty one and
+  the plugin drew the card without the link -- there was no way to see what the
+  demo looked like except by importing it. It points at the demo's own page here.
+
 ## 2026-08-19
 
 - Added **Kivora** (`kivora/`) with its first demo, **Creative Studio**: a design
