@@ -50,7 +50,32 @@ require_once ABSPATH . 'wp-admin/includes/export.php';
 export_wp(['content' => 'all']);
 $xml = ob_get_clean();
 
-$trashed = 0;
+$trashed  = 0;
+$internal = 0;
+
+/**
+ * Drop the global styles post.
+ *
+ * WordPress exports every post type marked can_export, and wp_global_styles is
+ * one of them — so a demo's colour scheme would travel twice: once as an opaque
+ * post whose theme is decided by a taxonomy term the importer may or may not
+ * carry, and once through the demo's own style_variation setting, which the
+ * theme applies deliberately and which refuses to overwrite styles somebody has
+ * already edited by hand. One route is enough, and it is the second.
+ */
+$xml = preg_replace_callback(
+    '#\t<item>.*?</item>\r?\n#s',
+    static function ($match) use (&$internal) {
+        if (false === strpos($match[0], '<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>')) {
+            return $match[0];
+        }
+
+        $internal++;
+
+        return '';
+    },
+    $xml
+);
 
 /**
  * Drop anything in the trash.
@@ -82,9 +107,10 @@ $xml = preg_replace_callback(
 
 file_put_contents($export, str_replace($local_url, $base_url . '/uploads', $xml));
 WP_CLI::log(sprintf(
-    'content.xml     %s media URLs rewritten, %s trashed item(s) dropped',
+    'content.xml     %s media URLs rewritten, %s trashed and %s internal item(s) dropped',
     substr_count($xml, $local_url),
-    $trashed
+    $trashed,
+    $internal
 ));
 
 // ---------------------------------------------------------------- widgets

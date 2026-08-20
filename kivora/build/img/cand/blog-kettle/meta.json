@@ -1,0 +1,46 @@
+{
+    "1": {
+        "title": "Barista Pouring",
+        "creator": "Burst",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/barista-pouring-MD4L58LL1E",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/MD4L58LL1E.jpg",
+        "width": 4135,
+        "height": 2757,
+        "query": "pouring kettle coffee"
+    },
+    "2": {
+        "title": "Vintage Kettle",
+        "creator": "The Lazy Artist Gallery",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/vintage-kettle-LVSRR5HGRB",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/LVSRR5HGRB.jpg",
+        "width": 4367,
+        "height": 4000,
+        "query": "pouring kettle coffee"
+    },
+    "3": {
+        "title": "Pour Over",
+        "creator": "Kristin Hardwick",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/pour-over-UE2INO4TXK",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/UE2INO4TXK.jpg",
+        "width": 5760,
+        "height": 3840,
+        "query": "coffee filter brewing"
+    },
+    "4": {
+        "title": "Pour Over",
+        "creator": "Kristin Hardwick",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/pour-over-0PZDINJEXE",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/0PZDINJEXE.jpg",
+        "width": 4978,
+        "height": 3556,
+        "query": "coffee filter brewing"
+    }
+}

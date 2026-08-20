@@ -1,0 +1,46 @@
+{
+    "1": {
+        "title": "Coffee Cup",
+        "creator": "phatonlaphat thongsriphong",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/coffee-cup-CQQMILRZPU",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/CQQMILRZPU.jpg",
+        "width": 6000,
+        "height": 4000,
+        "query": "coffee cupping tasting"
+    },
+    "2": {
+        "title": "Coffee Beans",
+        "creator": "Helena Lopes",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/coffee-beans-ARXUSAK8GB",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/ARXUSAK8GB.jpg",
+        "width": 5157,
+        "height": 3438,
+        "query": "coffee cupping tasting"
+    },
+    "3": {
+        "title": "Pour Over",
+        "creator": "Kristin Hardwick",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/pour-over-UE2INO4TXK",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/UE2INO4TXK.jpg",
+        "width": 5760,
+        "height": 3840,
+        "query": "pour over coffee"
+    },
+    "4": {
+        "title": "Pour Over",
+        "creator": "Kristin Hardwick",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/pour-over-0PZDINJEXE",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/0PZDINJEXE.jpg",
+        "width": 4978,
+        "height": 3556,
+        "query": "pour over coffee"
+    }
+}

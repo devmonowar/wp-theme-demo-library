@@ -10,7 +10,9 @@
  * useful to someone who cannot see it, not to repeat the caption or the post
  * title beside it.
  *
- * @return array<string, array{n:int, alt:string}>
+ * A slot may add 'from' to borrow another slot's candidate sheet.
+ *
+ * @return array<string, array{n:int, alt:string, from?:string}>
  */
 
 return array(

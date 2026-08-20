@@ -1,0 +1,46 @@
+{
+    "1": {
+        "title": "Vegetable Stall",
+        "creator": "Bruce Mars",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/vegetable-stall-KZ19NV9MVY",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/KZ19NV9MVY.jpg",
+        "width": 3200,
+        "height": 2207,
+        "query": "market stall food"
+    },
+    "2": {
+        "title": "Fruit Market",
+        "creator": "Daria Shevtsova",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/fruit-market-E4J3BP6ZNJ",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/E4J3BP6ZNJ.jpg",
+        "width": 3960,
+        "height": 2635,
+        "query": "market stall food"
+    },
+    "3": {
+        "title": "Food Eat",
+        "creator": "Lisa Davies",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/food-eat-RXWC2PDCQQ",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/RXWC2PDCQQ.jpg",
+        "width": 4800,
+        "height": 3200,
+        "query": "street food market"
+    },
+    "4": {
+        "title": "Fried Chicken",
+        "creator": "Andrew Itaga",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/fried-chicken-N18XO4WUZZ",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/N18XO4WUZZ.jpg",
+        "width": 5760,
+        "height": 3840,
+        "query": "street food market"
+    }
+}

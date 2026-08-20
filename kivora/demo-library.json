@@ -4,6 +4,23 @@
 	"minimum_theme_version": "1.0.0",
 	"demos": [
 		{
+			"id": "roastery",
+			"name": "Brackenmoor Roastery",
+			"description": "A small coffee roastery that supplies cafés and offices: a ten-section homepage, a published price list, a services page with a child page under it, and a grid of the shops it supplies. The one demo that changes the theme's colours on import.",
+			"version": "1.0",
+			"updated": "2026-08-20",
+			"requires": "1.0.0",
+			"category": "Business",
+			"tags": [ "business", "services", "pricing", "shop", "food", "local" ],
+			"featured": false,
+			"new": true,
+			"preview": "https://devmonowar.github.io/wp-theme-demo-library/kivora/previews/roastery.jpg",
+			"preview_url": "https://devmonowar.github.io/wp-theme-demo-library/kivora/roastery/",
+			"preview_width": 1200,
+			"preview_height": 675,
+			"file": "https://devmonowar.github.io/wp-theme-demo-library/kivora/demos/roastery.json"
+		},
+		{
 			"id": "fieldnotes",
 			"name": "Fieldnotes",
 			"description": "A personal journal of walking, writing and photographs: a typographic homepage, a blog with a sidebar on the left, a gallery page, and eight posts with comments. Text-led and deliberately quiet.",

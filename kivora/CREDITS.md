@@ -50,3 +50,40 @@ they share a source row. Each was cropped to one person.
 
 The people in these photographs are models; the names, roles and quotes in the
 demo are fictional and belong to the demo's imaginary studio, not to them.
+
+## Brackenmoor Roastery
+
+| File | Original title | Photographer | Licence | Source |
+|---|---|---|---|---|
+| `hero-roastery` | Coffee Beans | Michal Jarmoluk | CC0 1.0 | https://stocksnap.io/photo/coffee-beans-PM0QDTADIN |
+| `about-roasting` | Coffee Bean | Joshua Newton | CC0 1.0 | https://stocksnap.io/photo/coffee-bean-418RUBKWQR |
+| `services-cupping` | Pour Over | Kristin Hardwick | CC0 1.0 | https://stocksnap.io/photo/pour-over-0PZDINJEXE |
+| `contact-shopfront` | Road Street | Daniel Robert | CC0 1.0 | https://stocksnap.io/photo/road-street-FD154884E4 |
+| `work-corner-cafe` | Coffee Cafe | Jeff Sheldon | CC0 1.0 | https://stocksnap.io/photo/coffee-cafe-8C35014CE3 |
+| `work-bakery` | Freshly Baked | Daria Shevtsova | CC0 1.0 | https://stocksnap.io/photo/freshly-baked-NKU48AAAWF |
+| `work-office-kitchen` | Laptop Work | Matt Moloney | CC0 1.0 | https://stocksnap.io/photo/laptop-work-D8MPRQM38G |
+| `work-deli` | Tea Jars | Freestocks.org | CC0 1.0 | https://stocksnap.io/photo/tea-jars-GYAYM5I839 |
+| `work-market-stall` | Fruit Market | Daria Shevtsova | CC0 1.0 | https://stocksnap.io/photo/fruit-market-E4J3BP6ZNJ |
+| `work-hotel-bar` | Places Restaurant | Michael Browning | CC0 1.0 | https://stocksnap.io/photo/places-restaurant-P8Q51D175I |
+| `blog-green-beans` | Burlap Sack | Freestocks.org | CC0 1.0 | https://stocksnap.io/photo/burlap-sack-D61LRR4CV8 |
+| `blog-grinder` | Antique Coffee | Tom Swinnen | CC0 1.0 | https://stocksnap.io/photo/antique-coffee-UKPXEXD4TT |
+| `blog-kettle` | Vintage Kettle | The Lazy Artist Gallery | CC0 1.0 | https://stocksnap.io/photo/vintage-kettle-LVSRR5HGRB |
+| `blog-latte` | Coffee Art | Elliott Chau | CC0 1.0 | https://stocksnap.io/photo/coffee-art-GZCFF9JJE7 |
+| `blog-farm` | Green Plant | Mali Maeder | CC0 1.0 | https://stocksnap.io/photo/green-plant-CCMIOPCSJP |
+| `blog-espresso` | Espresso Coffee | Blake Verdoorn | CC0 1.0 | https://stocksnap.io/photo/espresso-coffee-RKVW9F72PL |
+
+Every one of these came from StockSnap. That is not a coincidence: the search
+was restricted to it (`--source=stocksnap`), because rawpixel is a large share
+of Openverse's CC0 and prints a watermark across the file it serves, so a slot
+can come back full and be entirely unusable.
+
+There is no team section on this demo, and no portrait anywhere in it. The one
+CC0 group photograph Openverse offered was taken at a real event, and nobody in
+the stock series could be cropped out cleanly. Creative Studio already
+demonstrates the team pattern.
+
+The logo, the site icon and the five customer wordmarks
+(`brackenmoor-roastery-logo`, `brackenmoor-roastery-icon`, `client-*`) were
+drawn for this demo by `build/img/draw-roastery-marks.php` and carry the same
+GPL licence as the theme. Every real company logo is somebody's trademark, and
+a demo that lands on thousands of sites is the last place to borrow one.

@@ -1,0 +1,46 @@
+{
+    "1": {
+        "title": "Antique Coffee",
+        "creator": "Tom Swinnen",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/antique-coffee-UKPXEXD4TT",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/UKPXEXD4TT.jpg",
+        "width": 5184,
+        "height": 3456,
+        "query": "coffee grinder"
+    },
+    "2": {
+        "title": "Fresh Espresso",
+        "creator": "Tom Swinnen",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/fresh-espresso-TIFO0HSADL",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/TIFO0HSADL.jpg",
+        "width": 5184,
+        "height": 3456,
+        "query": "coffee grinder"
+    },
+    "3": {
+        "title": "Pour Over",
+        "creator": "Kristin Hardwick",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/pour-over-UE2INO4TXK",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/UE2INO4TXK.jpg",
+        "width": 5760,
+        "height": 3840,
+        "query": "ground coffee"
+    },
+    "4": {
+        "title": "Pour Over",
+        "creator": "Kristin Hardwick",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/pour-over-0PZDINJEXE",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/0PZDINJEXE.jpg",
+        "width": 4978,
+        "height": 3556,
+        "query": "ground coffee"
+    }
+}

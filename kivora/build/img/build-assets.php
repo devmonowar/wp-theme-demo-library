@@ -1,15 +1,15 @@
 <?php
 /**
- * Turn the chosen candidates into the files Demo 2 ships.
+ * Turn the chosen candidates into the files a demo ships.
  *
- *     php build-assets.php
+ *     php build-assets.php [--set=<demo>]
  *
- * Reads chosen.php (slot => candidate number + alt text), fetches that
+ * Reads chosen-<demo>.php (slot => candidate number + alt text), fetches that
  * candidate's original from the provider, crops it to the shape the layout
  * wants, caps the width, and writes:
  *
- *   final/<slot>.jpg    the file the demo imports
- *   credits-fieldnotes.json        title, creator, licence and source for CREDITS.md
+ *   final-<demo>/<slot>.jpg   the file the demo imports
+ *   credits-<demo>.json       title, creator, licence and source for CREDITS.md
  *
  * Cropping is centre-weighted and deliberate: a blog grid lines up only if
  * every thumbnail is the same shape, and letting WordPress crop for us would
@@ -20,16 +20,36 @@ const UA      = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (K
 const MAX_W   = 1600;
 const QUALITY = 82;
 
-$base   = __DIR__;
-$chosen = require "$base/chosen.php";
+$base = __DIR__;
+$set  = 'fieldnotes';
+
+foreach ( array_slice( $argv, 1 ) as $arg ) {
+	if ( str_starts_with( $arg, '--set=' ) ) {
+		$set = substr( $arg, 6 );
+	}
+}
+
+$chosen_file = "$base/chosen-$set.php";
+
+if ( ! is_readable( $chosen_file ) ) {
+	fwrite( STDERR, "No choices for '$set' (expected " . basename( $chosen_file ) . ")\n" );
+	exit( 1 );
+}
+
+$chosen = require $chosen_file;
 
 /**
- * Target aspect per slot. 3:2 for the photographs, 1:1 for the portrait.
+ * Target aspect per slot. 3:2 for the photographs, 1:1 for a portrait, and 16:9
+ * where a section is wider than it is tall.
  */
 $aspect = array(
 	'portrait' => 1 / 1,
 	'*'        => 3 / 2,
 );
+
+if ( is_readable( "$base/aspect-$set.php" ) ) {
+	$aspect = array_merge( $aspect, require "$base/aspect-$set.php" );
+}
 
 /**
  * GET a URL.
@@ -93,14 +113,20 @@ function crop_to( $src, float $ratio, int $max_w ) {
 	return $dst;
 }
 
-if ( ! is_dir( "$base/final-fieldnotes" ) ) {
-	mkdir( "$base/final-fieldnotes", 0777, true );
+if ( ! is_dir( "$base/final-$set" ) ) {
+	mkdir( "$base/final-$set", 0777, true );
 }
 
 $credits = array();
 
 foreach ( $chosen as $slot => $pick ) {
-	$meta_path = "$base/cand/$slot/meta.json";
+	/*
+	 * A slot may borrow another slot's contact sheet with 'from'. Some subjects
+	 * come back with one candidate while their neighbours come back with six,
+	 * and searching again for a picture already on disk is twenty-five seconds
+	 * spent to arrive in the same place.
+	 */
+	$meta_path = "$base/cand/" . ( $pick['from'] ?? $slot ) . '/meta.json';
 
 	if ( ! file_exists( $meta_path ) ) {
 		printf( "%-16s NO META\n", $slot );
@@ -132,7 +158,7 @@ foreach ( $chosen as $slot => $pick ) {
 	$ratio = $aspect[ $slot ] ?? $aspect['*'];
 	$out   = crop_to( $im, $ratio, MAX_W );
 
-	imagejpeg( $out, "$base/final-fieldnotes/$slot.jpg", QUALITY );
+	imagejpeg( $out, "$base/final-$set/$slot.jpg", QUALITY );
 
 	$credits[ $slot ] = array(
 		'file'    => "$slot.jpg",
@@ -149,11 +175,11 @@ foreach ( $chosen as $slot => $pick ) {
 		$slot,
 		imagesx( $out ),
 		imagesy( $out ),
-		(int) round( filesize( "$base/final-fieldnotes/$slot.jpg" ) / 1024 ),
+		(int) round( filesize( "$base/final-$set/$slot.jpg" ) / 1024 ),
 		$item['licence']
 	);
 }
 
-file_put_contents( "$base/credits-fieldnotes.json", json_encode( $credits, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE ) );
+file_put_contents( "$base/credits-$set.json", json_encode( $credits, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE ) );
 
-printf( "\n%d file(s) in final/, credits-fieldnotes.json written\n", count( $credits ) );
+printf( "\n%d file(s) in final-$set/, credits-$set.json written\n", count( $credits ) );

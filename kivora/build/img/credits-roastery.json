@@ -1,0 +1,146 @@
+{
+    "hero-roastery": {
+        "file": "hero-roastery.jpg",
+        "alt": "A close, shallow view across a bed of freshly roasted coffee beans, still glossy.",
+        "title": "Coffee Beans",
+        "creator": "Michal Jarmoluk",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/coffee-beans-PM0QDTADIN",
+        "via": "stocksnap"
+    },
+    "about-roasting": {
+        "file": "about-roasting.jpg",
+        "alt": "A hand held over a wide wooden tray of pale green unroasted coffee beans, picking one out.",
+        "title": "Coffee Bean",
+        "creator": "Joshua Newton",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/coffee-bean-418RUBKWQR",
+        "via": "stocksnap"
+    },
+    "services-cupping": {
+        "file": "services-cupping.jpg",
+        "alt": "A ceramic filter cone and glass carafe standing on a set of digital scales on a wooden bench.",
+        "title": "Pour Over",
+        "creator": "Kristin Hardwick",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/pour-over-0PZDINJEXE",
+        "via": "stocksnap"
+    },
+    "contact-shopfront": {
+        "file": "contact-shopfront.jpg",
+        "alt": "A narrow cobbled lane between brick buildings, shopfronts and a few people at the far end.",
+        "title": "Road Street",
+        "creator": "Daniel Robert",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/road-street-FD154884E4",
+        "via": "stocksnap"
+    },
+    "work-corner-cafe": {
+        "file": "work-corner-cafe.jpg",
+        "alt": "The inside of a café in daylight: people at wooden tables with cups in front of them, seen from behind.",
+        "title": "Coffee Cafe",
+        "creator": "Jeff Sheldon",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/coffee-cafe-8C35014CE3",
+        "via": "stocksnap"
+    },
+    "work-bakery": {
+        "file": "work-bakery.jpg",
+        "alt": "Baskets of round sourdough loaves and dark rye stacked behind handwritten price cards.",
+        "title": "Freshly Baked",
+        "creator": "Daria Shevtsova",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/freshly-baked-NKU48AAAWF",
+        "via": "stocksnap"
+    },
+    "work-office-kitchen": {
+        "file": "work-office-kitchen.jpg",
+        "alt": "A bright office kitchen with a coffee machine on the counter and one person working at a laptop.",
+        "title": "Laptop Work",
+        "creator": "Matt Moloney",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/laptop-work-D8MPRQM38G",
+        "via": "stocksnap"
+    },
+    "work-deli": {
+        "file": "work-deli.jpg",
+        "alt": "A wall of pale blue shelves filled with labelled glass storage jars in a shop.",
+        "title": "Tea Jars",
+        "creator": "Freestocks.org",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/tea-jars-GYAYM5I839",
+        "via": "stocksnap"
+    },
+    "work-market-stall": {
+        "file": "work-market-stall.jpg",
+        "alt": "A market stall stacked with crates of fruit and vegetables under handwritten cardboard signs.",
+        "title": "Fruit Market",
+        "creator": "Daria Shevtsova",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/fruit-market-E4J3BP6ZNJ",
+        "via": "stocksnap"
+    },
+    "work-hotel-bar": {
+        "file": "work-hotel-bar.jpg",
+        "alt": "A restaurant table laid with wine glasses and folded napkins, the room dim behind it.",
+        "title": "Places Restaurant",
+        "creator": "Michael Browning",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/places-restaurant-P8Q51D175I",
+        "via": "stocksnap"
+    },
+    "blog-green-beans": {
+        "file": "blog-green-beans.jpg",
+        "alt": "A folded hessian coffee sack, stencilled with a country of origin and a lot number.",
+        "title": "Burlap Sack",
+        "creator": "Freestocks.org",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/burlap-sack-D61LRR4CV8",
+        "via": "stocksnap"
+    },
+    "blog-grinder": {
+        "file": "blog-grinder.jpg",
+        "alt": "An old hand-cranked coffee grinder beside a bowl of roasted beans and a small cup.",
+        "title": "Antique Coffee",
+        "creator": "Tom Swinnen",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/antique-coffee-UKPXEXD4TT",
+        "via": "stocksnap"
+    },
+    "blog-kettle": {
+        "file": "blog-kettle.jpg",
+        "alt": "A gooseneck kettle pouring into a filter cone on a glass carafe, a window and a street behind it.",
+        "title": "Vintage Kettle",
+        "creator": "The Lazy Artist Gallery",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/vintage-kettle-LVSRR5HGRB",
+        "via": "stocksnap"
+    },
+    "blog-latte": {
+        "file": "blog-latte.jpg",
+        "alt": "A latte seen from directly above, a leaf poured into the surface of the milk.",
+        "title": "Coffee Art",
+        "creator": "Elliott Chau",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/coffee-art-GZCFF9JJE7",
+        "via": "stocksnap"
+    },
+    "blog-farm": {
+        "file": "blog-farm.jpg",
+        "alt": "A hand reaching into the leaves of a coffee plant, picking a cluster of ripe red cherries.",
+        "title": "Green Plant",
+        "creator": "Mali Maeder",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/green-plant-CCMIOPCSJP",
+        "via": "stocksnap"
+    },
+    "blog-espresso": {
+        "file": "blog-espresso.jpg",
+        "alt": "Espresso running from a portafilter spout in a dark, unbroken stream.",
+        "title": "Espresso Coffee",
+        "creator": "Blake Verdoorn",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/espresso-coffee-RKVW9F72PL",
+        "via": "stocksnap"
+    }
+}

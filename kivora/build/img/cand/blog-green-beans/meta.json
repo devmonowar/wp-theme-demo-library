@@ -1,0 +1,46 @@
+{
+    "1": {
+        "title": "Coffee Bean",
+        "creator": "Toa Heftiba",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/coffee-bean-ESQSDQ5GPI",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/ESQSDQ5GPI.jpg",
+        "width": 5184,
+        "height": 3456,
+        "query": "green coffee beans"
+    },
+    "2": {
+        "title": "Green Plant",
+        "creator": "Mali Maeder",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/green-plant-CCMIOPCSJP",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/CCMIOPCSJP.jpg",
+        "width": 1920,
+        "height": 1279,
+        "query": "green coffee beans"
+    },
+    "3": {
+        "title": "Sack Coffee",
+        "creator": "Ylanite Koppens",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/sack-coffee-VDKZHTBQK0",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/VDKZHTBQK0.jpg",
+        "width": 4653,
+        "height": 3041,
+        "query": "coffee beans sack"
+    },
+    "4": {
+        "title": "Burlap Sack",
+        "creator": "Freestocks.org",
+        "licence": "CC0 1.0",
+        "source": "https://stocksnap.io/photo/burlap-sack-D61LRR4CV8",
+        "provider": "stocksnap",
+        "file": "https://cdn.stocksnap.io/img-thumbs/960w/D61LRR4CV8.jpg",
+        "width": 5184,
+        "height": 3456,
+        "query": "coffee beans sack"
+    }
+}
