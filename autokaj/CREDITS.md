@@ -1,4 +1,4 @@
-# Credits — PortoLite demos
+# Credits — AutoKaj demos
 
 Demo photos are free stock, licensed for commercial use with no attribution
 required and redistributable, so they can be imported onto end-user sites.
