@@ -29,3 +29,16 @@ company logos and carry no third-party rights.
 
 Nothing in this library is a paid, subscription or marketplace-licensed asset,
 so importing a demo places no licence obligation on the person importing it.
+
+### September 2026 replacements (trademark-free heroes and slider)
+
+| File | Source |
+|------|--------|
+| `pexels-cottonbro-7541358.jpg` | https://www.pexels.com/photo/person-fixing-the-engine-air-filter-of-a-truck-7541358/ |
+| `pexels-fatih-erden-141946798-10490621.jpg` | https://www.pexels.com/photo/a-mechanic-opening-the-oil-filler-cap-of-a-car-engine-10490621/ |
+| `pexels-artempodrez-8985601.jpg` | https://www.pexels.com/photo/man-fixing-car-in-a-garage-8985601/ |
+| `pexels-gustavo-fring-6870307.jpg` | https://www.pexels.com/photo/man-in-blue-uniform-fixing-the-car-s-brake-system-6870307/ |
+| `pexels-lumierestudiomx-4116231.jpg` | https://www.pexels.com/photo/mechanics-working-with-cars-4116231/ |
+
+Pexels photos are free for commercial use with no attribution required. They
+replace the earlier workshop shots that carried readable carmaker branding.
