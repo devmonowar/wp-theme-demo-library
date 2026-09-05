@@ -54,25 +54,31 @@ $trashed  = 0;
 $internal = 0;
 
 /**
- * Drop the global styles post.
+ * Drop internal and foreign post types.
  *
- * WordPress exports every post type marked can_export, and wp_global_styles is
- * one of them — so a demo's colour scheme would travel twice: once as an opaque
- * post whose theme is decided by a taxonomy term the importer may or may not
- * carry, and once through the demo's own style_variation setting, which the
- * theme applies deliberately and which refuses to overwrite styles somebody has
- * already edited by hand. One route is enough, and it is the second.
+ * WordPress exports every post type marked can_export, and that includes
+ * things a buyer must never see: wp_global_styles (a demo's colour scheme
+ * would travel twice — once as an opaque post and once through the demo's
+ * own customizer.dat, which refuses to overwrite settings somebody already
+ * edited by hand), elementor_library (a kit from a page-builder experiment
+ * that only produces an OCDI "Invalid post type" warning on import), and
+ * wp_navigation (block-editor navigation storage; this theme's menus are
+ * classic nav_menu_items assigned by the importer).
  */
+$junk_types = ['wp_global_styles', 'elementor_library', 'wp_navigation'];
+
 $xml = preg_replace_callback(
     '#\t<item>.*?</item>\r?\n#s',
-    static function ($match) use (&$internal) {
-        if (false === strpos($match[0], '<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>')) {
-            return $match[0];
+    static function ($match) use (&$internal, $junk_types) {
+        foreach ($junk_types as $junk) {
+            if (false !== strpos($match[0], '<wp:post_type><![CDATA[' . $junk . ']]></wp:post_type>')) {
+                $internal++;
+
+                return '';
+            }
         }
 
-        $internal++;
-
-        return '';
+        return $match[0];
     },
     $xml
 );

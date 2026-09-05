@@ -35,7 +35,7 @@
 	<wp:base_site_url>http://localhost/car-repair</wp:base_site_url>
 	<wp:base_blog_url>http://localhost/car-repair</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[kstmonowar@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Workshop Team]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[hello@carrepairservices.demo]]></wp:author_email><wp:author_display_name><![CDATA[Workshop Team]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>9</wp:term_id>
@@ -2009,39 +2009,7 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:6629;s:6:"height";i:4419;s:4:"file";s:50:"2026/08/pexels-specht-gmbh-2152217592-32082430.jpg";s:8:"filesize";i:3932259;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:50:"pexels-specht-gmbh-2152217592-32082430-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13040;}s:5:"large";a:5:{s:4:"file";s:51:"pexels-specht-gmbh-2152217592-32082430-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:80838;}s:9:"thumbnail";a:5:{s:4:"file";s:50:"pexels-specht-gmbh-2152217592-32082430-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6207;}s:12:"medium_large";a:5:{s:4:"file";s:50:"pexels-specht-gmbh-2152217592-32082430-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51906;}s:9:"1536x1536";a:5:{s:4:"file";s:52:"pexels-specht-gmbh-2152217592-32082430-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:161290;}s:9:"2048x2048";a:5:{s:4:"file";s:52:"pexels-specht-gmbh-2152217592-32082430-2048x1365.jpg";s:5:"width";i:2048;s:6:"height";i:1365;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:282234;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Default Kit]]></title>
-		<link>http://localhost/car-repair/?elementor_library=default-kit</link>
-		<pubDate>Sun, 02 Nov 2025 16:29:54 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/?p=6</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2025-11-02 16:29:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-11-02 16:29:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-11-02 16:29:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-11-02 16:29:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[kit]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
+									<item>
 		<title><![CDATA[Home]]></title>
 		<link>http://localhost/car-repair/</link>
 		<pubDate>Fri, 24 Jul 2026 11:43:43 +0000</pubDate>
@@ -6963,31 +6931,7 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Navigation]]></title>
-		<link>http://localhost/car-repair/navigation/</link>
-		<pubDate>Sun, 02 Nov 2025 16:29:05 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/2025/11/02/navigation/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2025-11-02 16:29:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-11-02 16:29:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-11-02 16:29:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-11-02 16:29:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[navigation]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
+									<item>
 		<title><![CDATA[Contact form 1]]></title>
 		<link>http://localhost/car-repair/?post_type=wpcf7_contact_form&#038;p=7</link>
 		<pubDate>Sun, 02 Nov 2025 16:29:54 +0000</pubDate>
@@ -7008,7 +6952,7 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 
 [submit "Submit"]
 [_site_title] "[your-subject]"
-[_site_title] <kstmonowar@gmail.com>
+[_site_title] <hello@carrepairservices.demo>
 From: [your-name] [your-email]
 Subject: [your-subject]
 
@@ -7024,7 +6968,7 @@ Reply-To: [your-email]
 0
 
 [_site_title] "[your-subject]"
-[_site_title] <kstmonowar@gmail.com>
+[_site_title] <hello@carrepairservices.demo>
 Message Body:
 [your-message]
 
@@ -7080,7 +7024,7 @@ There was an error uploading the file.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:36:"[_site_title] <kstmonowar@gmail.com>";s:4:"body";s:191:"From: [your-name] [your-email]
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:44:"[_site_title] <hello@carrepairservices.demo>";s:4:"body";s:191:"From: [your-name] [your-email]
 Subject: [your-subject]
 
 Message Body:
@@ -7091,7 +7035,7 @@ This is a notification that a contact form was submitted on your website ([_site
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:36:"[_site_title] <kstmonowar@gmail.com>";s:4:"body";s:220:"Message Body:
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:44:"[_site_title] <hello@carrepairservices.demo>";s:4:"body";s:220:"Message Body:
 [your-message]
 
 -- 
@@ -7835,7 +7779,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_3_counter_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[counter-one]]></wp:meta_value>
+		<wp:meta_value><![CDATA[counters]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_3_counter_style]]></wp:meta_key>
@@ -9135,7 +9079,7 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_2_eyebrow]]></wp:meta_key>
-		<wp:meta_value><![CDATA[What we do]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Repairs and servicing]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_eyebrow]]></wp:meta_key>
@@ -9143,7 +9087,7 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_2_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Everything your car needs, under one roof]]></wp:meta_value>
+		<wp:meta_value><![CDATA[The jobs we do every day]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_title]]></wp:meta_key>
@@ -9151,7 +9095,7 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_2_lede]]></wp:meta_key>
-		<wp:meta_value><![CDATA[One workshop, one invoice, one team that already knows your car — instead of being sent across town for a second opinion.]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Four bays, one diagnostic rig, and the same technician from drop-off to collection — the everyday work below is most of what comes through the door.]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_lede]]></wp:meta_key>
@@ -9167,7 +9111,7 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_2_items_0_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Scheduled servicing]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Interim and full servicing]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_items_0_title]]></wp:meta_key>
@@ -9175,7 +9119,7 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_2_items_0_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Manufacturer intervals followed to the letter and recorded in your service book, so the warranty stays intact.]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Oil, filters, plugs and a 40-point check, stamped in your service book the same day.]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_items_0_description]]></wp:meta_key>
@@ -9183,7 +9127,7 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_2_items_0_link_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[What is included]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Service options]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_items_0_link_text]]></wp:meta_key>
@@ -9207,7 +9151,7 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_2_items_1_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Brakes and suspension]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Brakes, pads and discs]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_items_1_title]]></wp:meta_key>
@@ -9215,7 +9159,7 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_2_items_1_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Pads, discs, shocks and bushes checked on a lift and measured, never guessed at from the outside.]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Wear measured and photographed for you, and priced before anything comes apart.]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_items_1_description]]></wp:meta_key>
@@ -9223,7 +9167,7 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_2_items_1_link_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[How we check]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Brake checks]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_items_1_link_text]]></wp:meta_key>
@@ -9247,7 +9191,7 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_2_items_2_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Engine diagnostics]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Fault finding]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_items_2_title]]></wp:meta_key>
@@ -9255,7 +9199,7 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_2_items_2_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[We read the fault codes, then prove the cause on live data before quoting a single part.]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Warning lights and strange noises traced on live data, not guessed from a code printout.]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_items_2_description]]></wp:meta_key>
@@ -9263,7 +9207,7 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_2_items_2_link_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Our process]]></wp:meta_value>
+		<wp:meta_value><![CDATA[How diagnosis works]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_items_2_link_text]]></wp:meta_key>
@@ -9287,7 +9231,7 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_2_items_3_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Air conditioning]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Heating and cooling]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_items_3_title]]></wp:meta_key>
@@ -9295,7 +9239,7 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_2_items_3_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Regas, leak testing and cabin filters, booked in spring so the system is ready before you need it.]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Air-con regas and leak tracing in spring, heaters and blowers before winter.]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_items_3_description]]></wp:meta_key>
@@ -9303,7 +9247,7 @@ One payment]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_2_items_3_link_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Book a regas]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Seasonal checks]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_items_3_link_text]]></wp:meta_key>
