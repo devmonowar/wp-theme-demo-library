@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1" created="2026-09-06 16:21" -->
+	<!-- generator="WordPress/7.1" created="2026-09-06 16:51" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Car Repair Services</title>
 	<link>http://localhost/car-repair</link>
 	<description></description>
-	<pubDate>Sun, 06 Sep 2026 16:21:42 +0000</pubDate>
+	<pubDate>Sun, 06 Sep 2026 16:51:14 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/car-repair</wp:base_site_url>
@@ -160,18 +160,18 @@
 		<wp:term_name><![CDATA[costs]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>11</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[diagnostics]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[diagnostics]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[diagnostics]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Diagnostics]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>11</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[diagnostics]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[diagnostics]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>17</wp:term_id>
@@ -216,18 +216,18 @@
 		<wp:term_name><![CDATA[safety]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>6</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[servicing]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Servicing]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>15</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[servicing]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[servicing]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[servicing]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Servicing]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>16</wp:term_id>
@@ -1968,7 +1968,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:10:{i:0;s:11:"hero_modern";i:1;s:12:"sliding_text";i:2;s:15:"services_modern";i:3;s:12:"about_modern";i:4;s:14:"process_modern";i:5;s:12:"feature_list";i:6;s:18:"testimonial_modern";i:7;s:14:"pricing_modern";i:8;s:10:"faq_modern";i:9;s:8:"cta_band";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:11:{i:0;s:11:"hero_modern";i:1;s:12:"sliding_text";i:2;s:15:"services_modern";i:3;s:12:"about_modern";i:4;s:14:"process_modern";i:5;s:12:"feature_list";i:6;s:18:"testimonial_modern";i:7;s:14:"pricing_modern";i:8;s:10:"faq_modern";i:9;s:12:"team_members";i:10;s:8:"cta_band";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections]]></wp:meta_key>
@@ -3167,56 +3167,28 @@
 		<wp:meta_value><![CDATA[field_mp_faq_items]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_9_background]]></wp:meta_key>
-		<wp:meta_value><![CDATA[132]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_9_background]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_mp_band_image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_9_eyebrow]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Ready when you are]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_9_eyebrow]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_mp_band_eyebrow]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_9_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Book the slot, keep the day]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_9_title]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_mp_band_title]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_9_lede]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Pick a morning that suits you and the car is back with you by evening. Courtesy vehicles on request.]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_9_lede]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_mp_band_lede]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_9_button_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Book a service]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_9_button_text]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_mp_band_btn_text]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_9_button_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_9_button_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_mp_band_btn_url]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_9_phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[+1 555 0143]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_9_phone]]></wp:meta_key>
@@ -3231,12 +3203,8 @@
 		<wp:meta_value><![CDATA[field_anchor_layout_mp_pricing_modern]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_9_anchor]]></wp:meta_key>
-		<wp:meta_value><![CDATA[book]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_9_anchor]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_anchor_layout_mp_cta_band]]></wp:meta_value>
+		<wp:meta_value><![CDATA[field_anchor_layout_683a6bee6c3fd]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[autokaj_seo_description]]></wp:meta_key>
@@ -3309,6 +3277,66 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_8_anchor]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_anchor_layout_mp_faq_modern]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_10_background]]></wp:meta_key>
+		<wp:meta_value><![CDATA[132]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_10_eyebrow]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Ready when you are]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_10_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Book the slot, keep the day]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_10_lede]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Pick a morning that suits you and the car is back with you by evening. Courtesy vehicles on request.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_10_button_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Book a service]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_10_button_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_10_phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[+1 555 0143]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_10_anchor]]></wp:meta_key>
+		<wp:meta_value><![CDATA[book]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_9_team_section_tagline]]></wp:meta_key>
+		<wp:meta_value><![CDATA[The people]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_9_team_section_tagline]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_683a6c7b6c3ff]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_9_team_section_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[One technician per car]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_9_team_section_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_683a6c9c6c400]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_9_team_member_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_9_team_member_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685687d8dca97]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_9_anchor]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6884,7 +6912,7 @@ Eastgate Industrial Park]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[page_sections_0_contact_details_2_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://www.google.com/maps/search/?api=1&query=48+Foundry+Road,+Eastgate+Industrial+Park]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_0_contact_details_2_link]]></wp:meta_key>
