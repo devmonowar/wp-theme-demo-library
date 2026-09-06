@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1" created="2026-09-06 17:05" -->
+	<!-- generator="WordPress/7.1" created="2026-09-06 17:31" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Car Repair Services</title>
 	<link>http://localhost/car-repair</link>
 	<description></description>
-	<pubDate>Sun, 06 Sep 2026 17:05:19 +0000</pubDate>
+	<pubDate>Sun, 06 Sep 2026 17:31:16 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/car-repair</wp:base_site_url>
@@ -938,6 +938,72 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Site Logo]]></title>
+		<link>http://localhost/car-repair/site-logo-2/</link>
+		<pubDate>Sun, 06 Sep 2026 17:29:45 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/2026/09/site-logo-new.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>471</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-06 17:29:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-06 17:29:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-06 17:29:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-06 17:29:45]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[site-logo-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/2026/09/site-logo-new.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/site-logo-new.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:600;s:6:"height";i:180;s:4:"file";s:25:"2026/09/site-logo-new.png";s:8:"filesize";i:11108;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:24:"site-logo-new-300x90.png";s:5:"width";i:300;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5458;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"site-logo-new-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4238;}s:14:"autokaj-avatar";a:5:{s:4:"file";s:25:"site-logo-new-160x160.png";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4728;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Site Logo Dark]]></title>
+		<link>http://localhost/car-repair/site-logo-dark-2/</link>
+		<pubDate>Sun, 06 Sep 2026 17:29:46 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/2026/09/site-logo-dark-new.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>472</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-06 17:29:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-06 17:29:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-06 17:29:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-06 17:29:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[site-logo-dark-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/2026/09/site-logo-dark-new.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/site-logo-dark-new.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:600;s:6:"height";i:180;s:4:"file";s:30:"2026/09/site-logo-dark-new.png";s:8:"filesize";i:13065;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:29:"site-logo-dark-new-300x90.png";s:5:"width";i:300;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:6372;}s:9:"thumbnail";a:5:{s:4:"file";s:30:"site-logo-dark-new-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4926;}s:14:"autokaj-avatar";a:5:{s:4:"file";s:30:"site-logo-dark-new-160x160.png";s:5:"width";i:160;s:6:"height";i:160;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5585;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[team-two-img-1 (1)]]></title>
 		<link>http://localhost/car-repair/home/team-two-img-1-1/</link>
 		<pubDate>Sun, 22 Jun 2025 18:06:46 +0000</pubDate>
@@ -972,39 +1038,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[Two technicians working overhead on the underside of a vehicle raised on the workshop lift]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Site Logo Dark]]></title>
-		<link>http://localhost/car-repair/site-logo-dark/</link>
-		<pubDate>Sun, 06 Sep 2026 15:37:23 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/2026/09/site-logo-dark-1.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>470</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-06 15:37:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-06 15:37:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-06 15:37:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-06 15:37:23]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[site-logo-dark]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/2026/09/site-logo-dark-1.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/09/site-logo-dark-1.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:420;s:6:"height";i:130;s:4:"file";s:28:"2026/09/site-logo-dark-1.png";s:8:"filesize";i:4982;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:27:"site-logo-dark-1-300x93.png";s:5:"width";i:300;s:6:"height";i:93;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7984;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"site-logo-dark-1-150x130.png";s:5:"width";i:150;s:6:"height";i:130;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3193;}s:14:"autokaj-avatar";a:5:{s:4:"file";s:28:"site-logo-dark-1-160x130.png";s:5:"width";i:160;s:6:"height";i:130;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3334;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1082,40 +1115,267 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Car Repair Services Logo]]></title>
-		<link>http://localhost/car-repair/car-repair-services-logo/</link>
-		<pubDate>Sat, 08 Aug 2026 10:46:38 +0000</pubDate>
+		<title><![CDATA[Aisha Karim]]></title>
+		<link>http://localhost/car-repair/team/aisha-karim/</link>
+		<pubDate>Fri, 24 Jul 2026 12:57:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/2026/08/site-logo.png</guid>
+		<guid isPermaLink="false">http://localhost/car-repair/team/aisha-karim/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>417</wp:post_id>
-		<wp:post_date><![CDATA[2026-08-08 10:46:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-08-08 10:46:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-08 10:46:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-08 10:46:38]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>353</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-24 12:57:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-24 12:57:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-07-24 12:57:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-07-24 12:57:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[car-repair-services-logo]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_name><![CDATA[aisha-karim]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_type><![CDATA[autokaj_team]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/2026/08/site-logo.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/08/site-logo.png]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[427]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:420;s:6:"height";i:130;s:4:"file";s:21:"2026/08/site-logo.png";s:8:"filesize";i:4948;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:20:"site-logo-300x93.png";s:5:"width";i:300;s:6:"height";i:93;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5833;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"site-logo-150x130.png";s:5:"width";i:150;s:6:"height";i:130;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2987;}s:14:"autokaj-avatar";a:5:{s:4:"file";s:21:"site-logo-160x130.png";s:5:"width";i:160;s:6:"height";i:130;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3112;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[designation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Workshop manager]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Car Repair Services]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_designation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685641c5d6e90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[intro_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Runs the diary and the floor. If your car is late, Aisha is the one who will have already called you about it.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_intro_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856aeca74db5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14 Mill Road, Northgate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642ca82a9e]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[+1 555 0143]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_band_phone]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[aisha@example.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642db82aa0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[biography]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<p>Aisha started on the tools and moved to the desk because she was the one everybody asked when a job went sideways. She still does the final check on every car before the keys go back.</p><p>She is the reason this workshop quotes in writing: she got tired of arguments that a photograph would have ended.</p>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_biography]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642ba82a9d]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_0_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Diagnostics]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_0_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_0_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[85]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_0_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_1_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Customer care]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_1_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_1_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[95]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_1_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_2_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Scheduling]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_2_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_2_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_2_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642e682aa1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Tom Becker]]></title>
+		<link>http://localhost/car-repair/team/tom-becker/</link>
+		<pubDate>Fri, 24 Jul 2026 12:57:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/team/tom-becker/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>354</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-24 12:57:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-24 12:57:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-07-24 12:57:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-07-24 12:57:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[tom-becker]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[autokaj_team]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[424]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[designation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Senior technician, diagnostics]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_designation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685641c5d6e90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[intro_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Fifteen years of chasing intermittent faults. The ones other garages have already given up on tend to end up on his ramp.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_intro_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856aeca74db5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14 Mill Road, Northgate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642ca82a9e]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[+1 555 0144]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_band_phone]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tom@example.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642db82aa0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[biography]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<p>Tom reads live data the way most people read a page. He will not order a part until the reading agrees with the symptom, which is slower on the first visit and considerably faster on the second.</p>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_biography]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642ba82a9d]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_0_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Engine diagnostics]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_0_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_0_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[95]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_0_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_1_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Electrical faults]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_1_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_1_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_1_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_2_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Transmissions]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_2_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_2_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[75]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_2_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642e682aa1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1659,72 +1919,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[Two mechanics working on cars inside a repair workshop]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[site-logo]]></title>
-		<link>http://localhost/car-repair/site-logo/</link>
-		<pubDate>Sat, 05 Sep 2026 12:59:19 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/2026/09/site-logo.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>465</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-05 12:59:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-05 12:59:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-05 12:59:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-05 12:59:19]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[site-logo]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/2026/09/site-logo.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/09/site-logo.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:420;s:6:"height";i:130;s:4:"file";s:21:"2026/09/site-logo.png";s:8:"filesize";i:4948;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:20:"site-logo-300x93.png";s:5:"width";i:300;s:6:"height";i:93;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5833;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"site-logo-150x130.png";s:5:"width";i:150;s:6:"height";i:130;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2987;}s:14:"autokaj-avatar";a:5:{s:4:"file";s:21:"site-logo-160x130.png";s:5:"width";i:160;s:6:"height";i:130;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3112;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[site-logo-1]]></title>
-		<link>http://localhost/car-repair/site-logo-1/</link>
-		<pubDate>Sat, 05 Sep 2026 12:59:19 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/2026/09/site-logo-1.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>466</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-05 12:59:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-05 12:59:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-05 12:59:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-05 12:59:19]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[site-logo-1]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/2026/09/site-logo-1.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/09/site-logo-1.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:420;s:6:"height";i:130;s:4:"file";s:23:"2026/09/site-logo-1.png";s:8:"filesize";i:4948;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:22:"site-logo-1-300x93.png";s:5:"width";i:300;s:6:"height";i:93;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5833;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"site-logo-1-150x130.png";s:5:"width";i:150;s:6:"height";i:130;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2987;}s:14:"autokaj-avatar";a:5:{s:4:"file";s:23:"site-logo-1-160x130.png";s:5:"width";i:160;s:6:"height";i:130;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3112;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4052,1609 +4246,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Aisha Karim]]></title>
-		<link>http://localhost/car-repair/team/aisha-karim/</link>
-		<pubDate>Fri, 24 Jul 2026 12:57:05 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/team/aisha-karim/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>353</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-24 12:57:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-24 12:57:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 12:57:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 12:57:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[aisha-karim]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[autokaj_team]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[427]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[designation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Workshop manager]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_designation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685641c5d6e90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[intro_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Runs the diary and the floor. If your car is late, Aisha is the one who will have already called you about it.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_intro_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856aeca74db5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14 Mill Road, Northgate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642ca82a9e]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[+1 555 0143]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_band_phone]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[aisha@example.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642db82aa0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[biography]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<p>Aisha started on the tools and moved to the desk because she was the one everybody asked when a job went sideways. She still does the final check on every car before the keys go back.</p><p>She is the reason this workshop quotes in writing: she got tired of arguments that a photograph would have ended.</p>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_biography]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642ba82a9d]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_0_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Diagnostics]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_0_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_0_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[85]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_0_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_1_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Customer care]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_1_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_1_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[95]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_1_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_2_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Scheduling]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_2_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_2_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_2_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642e682aa1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Tom Becker]]></title>
-		<link>http://localhost/car-repair/team/tom-becker/</link>
-		<pubDate>Fri, 24 Jul 2026 12:57:06 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/team/tom-becker/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>354</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-24 12:57:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-24 12:57:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 12:57:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 12:57:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[tom-becker]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[autokaj_team]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[424]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[designation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Senior technician, diagnostics]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_designation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685641c5d6e90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[intro_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Fifteen years of chasing intermittent faults. The ones other garages have already given up on tend to end up on his ramp.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_intro_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856aeca74db5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14 Mill Road, Northgate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642ca82a9e]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[+1 555 0144]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_band_phone]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tom@example.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642db82aa0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[biography]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<p>Tom reads live data the way most people read a page. He will not order a part until the reading agrees with the symptom, which is slower on the first visit and considerably faster on the second.</p>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_biography]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642ba82a9d]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_0_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Engine diagnostics]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_0_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_0_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[95]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_0_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_1_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Electrical faults]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_1_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_1_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_1_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_2_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Transmissions]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_2_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_2_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[75]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_2_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642e682aa1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Grace Oduya]]></title>
-		<link>http://localhost/car-repair/team/grace-oduya/</link>
-		<pubDate>Fri, 24 Jul 2026 12:57:06 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/team/grace-oduya/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>355</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-24 12:57:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-24 12:57:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 12:57:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 12:57:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[grace-oduya]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[autokaj_team]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[425]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[designation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Technician, brakes and suspension]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_designation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685641c5d6e90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[intro_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Measures everything. Has never once described a brake pad as "probably fine".]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_intro_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856aeca74db5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14 Mill Road, Northgate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642ca82a9e]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[+1 555 0145]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_band_phone]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[grace@example.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642db82aa0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[biography]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<p>Grace came through an apprenticeship here and stayed. She set up the four-wheel alignment rig and does most of the geometry work, which is why cars leave going straight.</p>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_biography]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642ba82a9d]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_0_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Brakes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_0_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_0_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[95]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_0_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_1_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Suspension]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_1_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_1_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_1_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_2_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Wheel alignment]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_2_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_2_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[92]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_2_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642e682aa1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Marco Ferreira]]></title>
-		<link>http://localhost/car-repair/team/marco-ferreira/</link>
-		<pubDate>Fri, 24 Jul 2026 12:57:06 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/team/marco-ferreira/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>356</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-24 12:57:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-24 12:57:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 12:57:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 12:57:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[marco-ferreira]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[autokaj_team]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[426]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[designation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Technician, servicing]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_designation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685641c5d6e90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[intro_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Handles most of the scheduled work. Quick, but the kind of quick that comes from doing it the same way every time.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_intro_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856aeca74db5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14 Mill Road, Northgate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642ca82a9e]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[+1 555 0146]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_band_phone]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[marco@example.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642db82aa0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[biography]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<p>Marco does the majority of the interim and full services. He keeps the parts store in order, which is less glamorous than diagnostics and saves the workshop more time than anything else.</p>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_biography]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642ba82a9d]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_0_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Scheduled servicing]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_0_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_0_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[95]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_0_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_1_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Air conditioning]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_1_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_1_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[85]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_1_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_2_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Tyres]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_2_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_2_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[88]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_2_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642e682aa1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost/car-repair/409/</link>
-		<pubDate>Sat, 25 Jul 2026 05:16:41 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/409/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>409</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-25 05:16:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-25 05:16:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[409]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[349]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Classic Version]]></title>
-		<link>http://localhost/car-repair/classic-version/</link>
-		<pubDate>Sat, 25 Jul 2026 05:16:41 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/classic-version/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>410</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-25 05:16:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-25 05:16:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[classic-version]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[409]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[363]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Centered Version]]></title>
-		<link>http://localhost/car-repair/centered-version/</link>
-		<pubDate>Sat, 25 Jul 2026 05:16:41 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/centered-version/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>411</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-25 05:16:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-25 05:16:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[centered-version]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[409]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[392]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost/car-repair/412/</link>
-		<pubDate>Sat, 25 Jul 2026 05:16:41 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/412/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>412</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-25 05:16:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-25 05:16:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[412]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[350]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost/car-repair/413/</link>
-		<pubDate>Sat, 25 Jul 2026 05:16:41 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/413/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>413</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-25 05:16:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-25 05:16:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[413]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[351]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost/car-repair/415/</link>
-		<pubDate>Sat, 25 Jul 2026 05:16:41 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/415/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>415</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-25 05:16:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-25 05:16:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[415]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[357]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost/car-repair/416/</link>
-		<pubDate>Sat, 25 Jul 2026 05:16:41 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/416/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>416</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-25 05:16:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-25 05:16:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[416]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[352]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Erik Lindqvist]]></title>
-		<link>http://localhost/car-repair/team/erik-lindqvist/</link>
-		<pubDate>Fri, 14 Aug 2026 15:53:49 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/team/erik-lindqvist/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>420</wp:post_id>
-		<wp:post_date><![CDATA[2026-08-14 15:53:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-08-14 15:53:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-14 15:53:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-14 15:53:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[erik-lindqvist]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[autokaj_team]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[421]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[designation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Master technician, engines]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_designation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685641c5d6e90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[intro_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Twenty-two years on the tools. Takes the jobs where the fault is somewhere no one has looked yet.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_intro_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856aeca74db5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[48 Foundry Road, Eastgate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642ca82a9e]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[+1 555 0147]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_band_phone]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[erik@example.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642db82aa0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[biography]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<p>Erik has rebuilt more engines than the rest of the workshop put together, and he is the one the others call over when a car comes back a second time. He will tell you what a repair is worth before he starts it, and he will tell you when a car is not worth it.</p>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_biography]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642ba82a9d]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642e682aa1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_0_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Engine rebuilds]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_0_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_0_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[96]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_0_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_1_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Timing and belts]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_1_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_1_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[92]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_1_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_2_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Cambelt and chain work]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_2_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_2_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_2_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Luca Moretti]]></title>
-		<link>http://localhost/car-repair/team/luca-moretti/</link>
-		<pubDate>Fri, 14 Aug 2026 15:53:51 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/team/luca-moretti/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>422</wp:post_id>
-		<wp:post_date><![CDATA[2026-08-14 15:53:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-08-14 15:53:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-14 15:53:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-14 15:53:51]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[luca-moretti]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[autokaj_team]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[423]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[designation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Auto electrician]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_designation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685641c5d6e90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[intro_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Wiring, sensors and the faults that only appear when the car is cold. Reads a wiring diagram the way most people read a map.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_intro_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856aeca74db5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[48 Foundry Road, Eastgate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642ca82a9e]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[+1 555 0148]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_band_phone]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[luca@example.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642db82aa0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[biography]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<p>Luca came up through auto electrics when cars started carrying more wiring than engine. Intermittent electrical faults are the ones garages hand back unsolved, and they are the ones he asks for.</p>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_biography]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642ba82a9d]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642e682aa1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_0_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Electrical faults]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_0_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_0_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[94]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_0_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_1_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Battery and charging]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_1_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_1_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_1_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_2_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Lighting and looms]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_2_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_2_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[88]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_2_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost/car-repair/430/</link>
-		<pubDate>Tue, 18 Aug 2026 15:24:28 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/430/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>430</wp:post_id>
-		<wp:post_date><![CDATA[2026-08-18 15:24:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-18 15:24:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[430]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[350]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost/car-repair/431/</link>
-		<pubDate>Tue, 18 Aug 2026 15:24:28 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/431/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>431</wp:post_id>
-		<wp:post_date><![CDATA[2026-08-18 15:24:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-18 15:24:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[431]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[351]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost/car-repair/432/</link>
-		<pubDate>Tue, 18 Aug 2026 15:24:28 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/432/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>432</wp:post_id>
-		<wp:post_date><![CDATA[2026-08-18 15:24:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-18 15:24:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[432]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[357]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost/car-repair/433/</link>
-		<pubDate>Tue, 18 Aug 2026 15:24:28 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/433/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>433</wp:post_id>
-		<wp:post_date><![CDATA[2026-08-18 15:24:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-18 15:24:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[433]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[352]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Team]]></title>
-		<link>http://localhost/car-repair/team/</link>
-		<pubDate>Sat, 05 Sep 2026 13:42:36 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/team/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>468</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-05 13:42:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-05 13:42:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[team]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type_archive]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[autokaj_team]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-													<item>
-		<title><![CDATA[Contact form 1]]></title>
-		<link>http://localhost/car-repair/?post_type=wpcf7_contact_form&#038;p=5</link>
-		<pubDate>Sat, 05 Sep 2026 12:50:52 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/?post_type=wpcf7_contact_form&#038;p=5</guid>
-		<description></description>
-		<content:encoded><![CDATA[<label> Your name
-    [text* your-name autocomplete:name] </label>
-
-<label> Your email
-    [email* your-email autocomplete:email] </label>
-
-<label> Subject
-    [text* your-subject] </label>
-
-<label> Your message (optional)
-    [textarea your-message] </label>
-
-[submit "Submit"]
-[_site_title] "[your-subject]"
-[_site_title] <hello@carrepairservices.demo>
-From: [your-name] [your-email]
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).
-[_site_admin_email]
-Reply-To: [your-email]
-
-0
-0
-
-[_site_title] "[your-subject]"
-[_site_title] <hello@carrepairservices.demo>
-Message Body:
-[your-message]
-
--- 
-This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.
-[your-email]
-Reply-To: [_site_admin_email]
-
-0
-0
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-Please fill out this field.
-This field has a too long input.
-This field has a too short input.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The uploaded file is too large.
-There was an error uploading the file.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-05 12:50:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-05 12:50:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-05 12:50:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-05 12:50:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<label> Your name
-    [text* your-name autocomplete:name] </label>
-
-<label> Your email
-    [email* your-email autocomplete:email] </label>
-
-<label> Subject
-    [text* your-subject] </label>
-
-<label> Your message (optional)
-    [textarea your-message] </label>
-
-[submit "Submit"]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:44:"[_site_title] <hello@carrepairservices.demo>";s:4:"body";s:191:"From: [your-name] [your-email]
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:44:"[_site_title] <hello@carrepairservices.demo>";s:4:"body";s:220:"Message Body:
-[your-message]
-
--- 
-This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:12:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
-		<wp:meta_value><![CDATA[e4c0d72465511a879f990a990624b915da2f4fdcd8eadbadf8d2a59aecd7272d]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Services]]></title>
 		<link>http://localhost/car-repair/services/</link>
 		<pubDate>Fri, 24 Jul 2026 12:27:55 +0000</pubDate>
@@ -7102,6 +5693,1345 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_2_anchor]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_anchor_layout_mp_cta_modern]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Grace Oduya]]></title>
+		<link>http://localhost/car-repair/team/grace-oduya/</link>
+		<pubDate>Fri, 24 Jul 2026 12:57:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/team/grace-oduya/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>355</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-24 12:57:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-24 12:57:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-07-24 12:57:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-07-24 12:57:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[grace-oduya]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[autokaj_team]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[425]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[designation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Technician, brakes and suspension]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_designation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685641c5d6e90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[intro_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Measures everything. Has never once described a brake pad as "probably fine".]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_intro_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856aeca74db5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14 Mill Road, Northgate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642ca82a9e]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[+1 555 0145]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_band_phone]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[grace@example.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642db82aa0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[biography]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<p>Grace came through an apprenticeship here and stayed. She set up the four-wheel alignment rig and does most of the geometry work, which is why cars leave going straight.</p>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_biography]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642ba82a9d]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_0_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Brakes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_0_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_0_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[95]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_0_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_1_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Suspension]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_1_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_1_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_1_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_2_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Wheel alignment]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_2_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_2_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[92]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_2_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642e682aa1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Marco Ferreira]]></title>
+		<link>http://localhost/car-repair/team/marco-ferreira/</link>
+		<pubDate>Fri, 24 Jul 2026 12:57:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/team/marco-ferreira/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>356</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-24 12:57:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-24 12:57:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-07-24 12:57:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-07-24 12:57:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[marco-ferreira]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[autokaj_team]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[426]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[designation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Technician, servicing]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_designation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685641c5d6e90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[intro_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Handles most of the scheduled work. Quick, but the kind of quick that comes from doing it the same way every time.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_intro_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856aeca74db5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14 Mill Road, Northgate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642ca82a9e]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[+1 555 0146]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_band_phone]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[marco@example.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642db82aa0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[biography]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<p>Marco does the majority of the interim and full services. He keeps the parts store in order, which is less glamorous than diagnostics and saves the workshop more time than anything else.</p>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_biography]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642ba82a9d]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_0_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Scheduled servicing]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_0_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_0_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[95]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_0_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_1_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Air conditioning]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_1_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_1_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[85]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_1_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_2_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Tyres]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_2_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_2_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[88]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_2_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642e682aa1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/car-repair/409/</link>
+		<pubDate>Sat, 25 Jul 2026 05:16:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/409/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>409</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-25 05:16:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-25 05:16:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[409]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[349]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Classic Version]]></title>
+		<link>http://localhost/car-repair/classic-version/</link>
+		<pubDate>Sat, 25 Jul 2026 05:16:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/classic-version/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>410</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-25 05:16:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-25 05:16:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[classic-version]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[409]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[363]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Centered Version]]></title>
+		<link>http://localhost/car-repair/centered-version/</link>
+		<pubDate>Sat, 25 Jul 2026 05:16:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/centered-version/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>411</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-25 05:16:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-25 05:16:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[centered-version]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[409]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[392]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/car-repair/412/</link>
+		<pubDate>Sat, 25 Jul 2026 05:16:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/412/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>412</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-25 05:16:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-25 05:16:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[412]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[350]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/car-repair/413/</link>
+		<pubDate>Sat, 25 Jul 2026 05:16:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/413/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>413</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-25 05:16:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-25 05:16:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[413]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[351]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/car-repair/415/</link>
+		<pubDate>Sat, 25 Jul 2026 05:16:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/415/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>415</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-25 05:16:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-25 05:16:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[415]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[357]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/car-repair/416/</link>
+		<pubDate>Sat, 25 Jul 2026 05:16:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/416/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>416</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-25 05:16:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-25 05:16:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[416]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[352]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Erik Lindqvist]]></title>
+		<link>http://localhost/car-repair/team/erik-lindqvist/</link>
+		<pubDate>Fri, 14 Aug 2026 15:53:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/team/erik-lindqvist/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>420</wp:post_id>
+		<wp:post_date><![CDATA[2026-08-14 15:53:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-08-14 15:53:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-14 15:53:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-14 15:53:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[erik-lindqvist]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[autokaj_team]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[421]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[designation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Master technician, engines]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_designation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685641c5d6e90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[intro_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Twenty-two years on the tools. Takes the jobs where the fault is somewhere no one has looked yet.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_intro_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856aeca74db5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[48 Foundry Road, Eastgate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642ca82a9e]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[+1 555 0147]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_band_phone]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[erik@example.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642db82aa0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[biography]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<p>Erik has rebuilt more engines than the rest of the workshop put together, and he is the one the others call over when a car comes back a second time. He will tell you what a repair is worth before he starts it, and he will tell you when a car is not worth it.</p>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_biography]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642ba82a9d]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642e682aa1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_0_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Engine rebuilds]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_0_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_0_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[96]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_0_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_1_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Timing and belts]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_1_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_1_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[92]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_1_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_2_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Cambelt and chain work]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_2_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_2_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_2_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Luca Moretti]]></title>
+		<link>http://localhost/car-repair/team/luca-moretti/</link>
+		<pubDate>Fri, 14 Aug 2026 15:53:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/team/luca-moretti/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>422</wp:post_id>
+		<wp:post_date><![CDATA[2026-08-14 15:53:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-08-14 15:53:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-14 15:53:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-14 15:53:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[luca-moretti]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[autokaj_team]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[423]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[designation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Auto electrician]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_designation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685641c5d6e90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[intro_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Wiring, sensors and the faults that only appear when the car is cold. Reads a wiring diagram the way most people read a map.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_intro_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856aeca74db5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[48 Foundry Road, Eastgate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642ca82a9e]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[+1 555 0148]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_band_phone]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[luca@example.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642db82aa0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[biography]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<p>Luca came up through auto electrics when cars started carrying more wiring than engine. Intermittent electrical faults are the ones garages hand back unsolved, and they are the ones he asks for.</p>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_biography]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642ba82a9d]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642e682aa1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_0_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Electrical faults]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_0_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_0_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[94]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_0_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_1_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Battery and charging]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_1_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_1_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_1_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_2_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Lighting and looms]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_2_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[skills_2_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[88]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_skills_2_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/car-repair/430/</link>
+		<pubDate>Tue, 18 Aug 2026 15:24:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/430/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>430</wp:post_id>
+		<wp:post_date><![CDATA[2026-08-18 15:24:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 15:24:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[430]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[350]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/car-repair/431/</link>
+		<pubDate>Tue, 18 Aug 2026 15:24:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/431/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>431</wp:post_id>
+		<wp:post_date><![CDATA[2026-08-18 15:24:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 15:24:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[431]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[351]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/car-repair/432/</link>
+		<pubDate>Tue, 18 Aug 2026 15:24:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/432/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>432</wp:post_id>
+		<wp:post_date><![CDATA[2026-08-18 15:24:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 15:24:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[432]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[357]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://localhost/car-repair/433/</link>
+		<pubDate>Tue, 18 Aug 2026 15:24:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/433/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>433</wp:post_id>
+		<wp:post_date><![CDATA[2026-08-18 15:24:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-18 15:24:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-18 15:24:28]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[433]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[352]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Team]]></title>
+		<link>http://localhost/car-repair/team/</link>
+		<pubDate>Sat, 05 Sep 2026 13:42:36 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/team/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>468</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-05 13:42:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-05 13:42:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-05 13:43:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-05 13:43:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[team]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type_archive]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[autokaj_team]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+													<item>
+		<title><![CDATA[Contact form 1]]></title>
+		<link>http://localhost/car-repair/?post_type=wpcf7_contact_form&#038;p=5</link>
+		<pubDate>Sat, 05 Sep 2026 12:50:52 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/?post_type=wpcf7_contact_form&#038;p=5</guid>
+		<description></description>
+		<content:encoded><![CDATA[<label> Your name
+    [text* your-name autocomplete:name] </label>
+
+<label> Your email
+    [email* your-email autocomplete:email] </label>
+
+<label> Subject
+    [text* your-subject] </label>
+
+<label> Your message (optional)
+    [textarea your-message] </label>
+
+[submit "Submit"]
+[_site_title] "[your-subject]"
+[_site_title] <hello@carrepairservices.demo>
+From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).
+[_site_admin_email]
+Reply-To: [your-email]
+
+0
+0
+
+[_site_title] "[your-subject]"
+[_site_title] <hello@carrepairservices.demo>
+Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.
+[your-email]
+Reply-To: [_site_admin_email]
+
+0
+0
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-05 12:50:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-05 12:50:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-05 12:50:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-05 12:50:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<label> Your name
+    [text* your-name autocomplete:name] </label>
+
+<label> Your email
+    [email* your-email autocomplete:email] </label>
+
+<label> Subject
+    [text* your-subject] </label>
+
+<label> Your message (optional)
+    [textarea your-message] </label>
+
+[submit "Submit"]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:44:"[_site_title] <hello@carrepairservices.demo>";s:4:"body";s:191:"From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:44:"[_site_title] <hello@carrepairservices.demo>";s:4:"body";s:220:"Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:12:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+		<wp:meta_value><![CDATA[e4c0d72465511a879f990a990624b915da2f4fdcd8eadbadf8d2a59aecd7272d]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
