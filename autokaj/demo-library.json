@@ -11,13 +11,7 @@
 			"updated": "2026-09-06",
 			"requires": "1.0.0",
 			"category": "Car Repair",
-			"tags": [
-				"garage",
-				"servicing",
-				"mot",
-				"workshop",
-				"booking"
-			],
+			"tags": [ "garage", "servicing", "mot", "workshop", "booking" ],
 			"featured": true,
 			"new": true,
 			"preview": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/previews/car-repair.jpg",
