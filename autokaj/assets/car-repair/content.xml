@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1" created="2026-09-06 15:37" -->
+	<!-- generator="WordPress/7.1" created="2026-09-06 16:21" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Car Repair Services</title>
 	<link>http://localhost/car-repair</link>
 	<description></description>
-	<pubDate>Sun, 06 Sep 2026 15:37:45 +0000</pubDate>
+	<pubDate>Sun, 06 Sep 2026 16:21:42 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/car-repair</wp:base_site_url>
@@ -125,18 +125,18 @@
 		<wp:term_name><![CDATA[air conditioning]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>8</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[brakes]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[brakes]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[brakes]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Brakes]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>8</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[brakes]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[brakes]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>3</wp:term_id>
@@ -160,18 +160,18 @@
 		<wp:term_name><![CDATA[costs]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>4</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[diagnostics]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Diagnostics]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>11</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[diagnostics]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[diagnostics]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>4</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[diagnostics]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Diagnostics]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>17</wp:term_id>
@@ -216,18 +216,18 @@
 		<wp:term_name><![CDATA[safety]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>15</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[servicing]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[servicing]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>6</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[servicing]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Servicing]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>15</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[servicing]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[servicing]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>16</wp:term_id>
@@ -7132,8 +7132,8 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="costs"><![CDATA[costs]]></category>
 		<category domain="post_tag" nicename="maintenance"><![CDATA[maintenance]]></category>
-		<category domain="post_tag" nicename="servicing"><![CDATA[servicing]]></category>
 		<category domain="category" nicename="servicing"><![CDATA[Servicing]]></category>
+		<category domain="post_tag" nicename="servicing"><![CDATA[servicing]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[120]]></wp:meta_value>
@@ -7146,7 +7146,7 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2026-07-22 13:05:30]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2026-07-22 13:05:30]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Useful list. Mine came back with \"brakes checked\" and nothing else written down — I will ask for the measurement next time.]]></wp:comment_content>
+			<wp:comment_content><![CDATA[Useful list. Mine came back with "brakes checked" and nothing else written down — I will ask for the measurement next time.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -7196,8 +7196,8 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="diagnostics"><![CDATA[diagnostics]]></category>
-		<category domain="category" nicename="diagnostics"><![CDATA[Diagnostics]]></category>
+										<category domain="category" nicename="diagnostics"><![CDATA[Diagnostics]]></category>
+		<category domain="post_tag" nicename="diagnostics"><![CDATA[diagnostics]]></category>
 		<category domain="post_tag" nicename="warning-lights"><![CDATA[warning lights]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7233,8 +7233,8 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="brakes"><![CDATA[brakes]]></category>
-		<category domain="category" nicename="brakes"><![CDATA[Brakes]]></category>
+										<category domain="category" nicename="brakes"><![CDATA[Brakes]]></category>
+		<category domain="post_tag" nicename="brakes"><![CDATA[brakes]]></category>
 		<category domain="post_tag" nicename="maintenance"><![CDATA[maintenance]]></category>
 		<category domain="post_tag" nicename="safety"><![CDATA[safety]]></category>
 						<wp:postmeta>
@@ -7307,8 +7307,8 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="buying-advice"><![CDATA[buying advice]]></category>
-		<category domain="category" nicename="buying-advice"><![CDATA[Buying advice]]></category>
+										<category domain="category" nicename="buying-advice"><![CDATA[Buying advice]]></category>
+		<category domain="post_tag" nicename="buying-advice"><![CDATA[buying advice]]></category>
 		<category domain="post_tag" nicename="costs"><![CDATA[costs]]></category>
 		<category domain="post_tag" nicename="inspection"><![CDATA[inspection]]></category>
 						<wp:postmeta>
