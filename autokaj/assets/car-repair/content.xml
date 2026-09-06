@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1" created="2026-09-06 16:51" -->
+	<!-- generator="WordPress/7.1" created="2026-09-06 17:05" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Car Repair Services</title>
 	<link>http://localhost/car-repair</link>
 	<description></description>
-	<pubDate>Sun, 06 Sep 2026 16:51:14 +0000</pubDate>
+	<pubDate>Sun, 06 Sep 2026 17:05:19 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/car-repair</wp:base_site_url>
@@ -8778,6 +8778,54 @@ One payment]]></wp:meta_value>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_page_sections_10_anchor]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_anchor_layout_683dc96770fe0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_7_monthly_plans_0_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[per visit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_7_monthly_plans_0_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_683a7425ed0c0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_7_monthly_plans_1_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[per visit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_7_monthly_plans_1_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_683a7425ed0c0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_7_monthly_plans_2_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[per visit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_7_monthly_plans_2_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_683a7425ed0c0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_7_yearly_plans_0_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[year]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_7_yearly_plans_0_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_683a74c5ed0c1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_7_yearly_plans_1_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[year]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_7_yearly_plans_1_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_683a74c5ed0c1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_7_yearly_plans_2_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[year]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_7_yearly_plans_2_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_683a74c5ed0c1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
