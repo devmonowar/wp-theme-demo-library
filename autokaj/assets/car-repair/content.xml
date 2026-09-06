@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1" created="2026-09-06 03:17" -->
+	<!-- generator="WordPress/7.1" created="2026-09-06 15:37" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Car Repair Services</title>
 	<link>http://localhost/car-repair</link>
 	<description></description>
-	<pubDate>Sun, 06 Sep 2026 03:17:30 +0000</pubDate>
+	<pubDate>Sun, 06 Sep 2026 15:37:45 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/car-repair</wp:base_site_url>
@@ -125,18 +125,18 @@
 		<wp:term_name><![CDATA[air conditioning]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>2</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[brakes]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Brakes]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>8</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[brakes]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[brakes]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>2</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[brakes]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Brakes]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>3</wp:term_id>
@@ -160,18 +160,18 @@
 		<wp:term_name><![CDATA[costs]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>11</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[diagnostics]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[diagnostics]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[diagnostics]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Diagnostics]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>11</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[diagnostics]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[diagnostics]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>17</wp:term_id>
@@ -216,18 +216,18 @@
 		<wp:term_name><![CDATA[safety]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>6</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[servicing]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Servicing]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>15</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[servicing]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[servicing]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[servicing]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Servicing]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>16</wp:term_id>
@@ -975,6 +975,39 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Site Logo Dark]]></title>
+		<link>http://localhost/car-repair/site-logo-dark/</link>
+		<pubDate>Sun, 06 Sep 2026 15:37:23 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/2026/09/site-logo-dark-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>470</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-06 15:37:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-06 15:37:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-06 15:37:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-06 15:37:23]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[site-logo-dark]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/2026/09/site-logo-dark-1.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/site-logo-dark-1.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:420;s:6:"height";i:130;s:4:"file";s:28:"2026/09/site-logo-dark-1.png";s:8:"filesize";i:4982;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:27:"site-logo-dark-1-300x93.png";s:5:"width";i:300;s:6:"height";i:93;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7984;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"site-logo-dark-1-150x130.png";s:5:"width";i:150;s:6:"height";i:130;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3193;}s:14:"autokaj-avatar";a:5:{s:4:"file";s:28:"site-logo-dark-1-160x130.png";s:5:"width";i:160;s:6:"height";i:130;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3334;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[testimonial-two-img-1]]></title>
 		<link>http://localhost/car-repair/home-classic/testimonial-two-img-1/</link>
 		<pubDate>Mon, 23 Jun 2025 02:14:50 +0000</pubDate>
@@ -1046,138 +1079,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[A technician leaning into an engine bay, working by the light of a torch]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Aisha Karim]]></title>
-		<link>http://localhost/car-repair/team/aisha-karim/</link>
-		<pubDate>Fri, 24 Jul 2026 12:57:05 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/team/aisha-karim/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>353</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-24 12:57:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-24 12:57:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 12:57:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 12:57:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[aisha-karim]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[autokaj_team]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[427]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[designation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Workshop manager]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_designation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685641c5d6e90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[intro_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Runs the diary and the floor. If your car is late, Aisha is the one who will have already called you about it.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_intro_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856aeca74db5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14 Mill Road, Northgate]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642ca82a9e]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[+1 555 0143]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_phone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_band_phone]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[aisha@example.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642db82aa0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[biography]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<p>Aisha started on the tools and moved to the desk because she was the one everybody asked when a job went sideways. She still does the final check on every car before the keys go back.</p><p>She is the reason this workshop quotes in writing: she got tired of arguments that a photograph would have ended.</p>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_biography]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642ba82a9d]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_0_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Diagnostics]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_0_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_0_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[85]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_0_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_1_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Customer care]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_1_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_1_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[95]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_1_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_2_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Scheduling]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_2_skill_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills_2_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills_2_skill_percent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[skills]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_skills]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_685642e682aa1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4123,931 +4024,135 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Services]]></title>
-		<link>http://localhost/car-repair/services/</link>
-		<pubDate>Fri, 24 Jul 2026 12:27:55 +0000</pubDate>
+		<title><![CDATA[Aisha Karim]]></title>
+		<link>http://localhost/car-repair/team/aisha-karim/</link>
+		<pubDate>Fri, 24 Jul 2026 12:57:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/car-repair/services/</guid>
+		<guid isPermaLink="false">http://localhost/car-repair/team/aisha-karim/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>351</wp:post_id>
-		<wp:post_date><![CDATA[2026-07-24 12:27:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-07-24 12:27:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-24 12:27:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-24 12:27:55]]></wp:post_modified_gmt>
+		<wp:post_id>353</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-24 12:57:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-24 12:57:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-07-24 12:57:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-07-24 12:57:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[services]]></wp:post_name>
+		<wp:post_name><![CDATA[aisha-karim]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[autokaj_team]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-sections.php]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[427]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_eyebrow]]></wp:meta_key>
-		<wp:meta_value><![CDATA[What we do]]></wp:meta_value>
+		<wp:meta_key><![CDATA[designation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Workshop manager]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_eyebrow]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_eyebrow]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_designation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685641c5d6e90]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Servicing, diagnostics and repair]]></wp:meta_value>
+		<wp:meta_key><![CDATA[intro_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Runs the diary and the floor. If your car is late, Aisha is the one who will have already called you about it.]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_title]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_intro_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856aeca74db5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_lede]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Everything below happens in this building, by the people you meet at the desk. Nothing is subcontracted without telling you first.]]></wp:meta_value>
+		<wp:meta_key><![CDATA[address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14 Mill Road, Northgate]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_lede]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_lede]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642ca82a9e]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_0_icon_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[icon-piston]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_0_icon_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_icon]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_0_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Scheduled servicing]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_0_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_title_i]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_0_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Interim and full services to the manufacturer schedule, logged in your service book.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_0_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_desc]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_0_link_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[See prices]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_0_link_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_link_text]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_0_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#pricing]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_0_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_link]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_1_icon_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[icon-brake-disc]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_1_icon_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_icon]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_1_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Brakes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_1_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_title_i]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_1_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Pads, discs, fluid and handbrake adjustment, measured on a brake tester rather than judged by feel.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_1_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_desc]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_1_link_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[See prices]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_1_link_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_link_text]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_1_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#pricing]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_1_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_link]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_2_icon_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[icon-pressure]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_2_icon_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_icon]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_2_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Diagnostics]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_2_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_title_i]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_2_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Warning lights traced to a cause on live data, with the reading shown to you before any part is ordered.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_2_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_desc]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_2_link_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[See prices]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_2_link_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_link_text]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_2_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#pricing]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_2_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_link]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_3_icon_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[icon-broken-car]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_3_icon_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_icon]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_3_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Air conditioning]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_3_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_title_i]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_3_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Regas, leak detection and cabin filter replacement, best booked before the first warm week.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_3_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_desc]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_3_link_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[See prices]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_3_link_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_link_text]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items_3_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#pricing]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items_3_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_link]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_0_items]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_0_items]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_srv_items]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_3_eyebrow]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Questions]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_3_eyebrow]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_faq_eyebrow]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_3_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Before you book]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_3_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_faq_title]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_3_lede]]></wp:meta_key>
-		<wp:meta_value><![CDATA[If yours is not here, call the workshop and ask for the duty technician.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_3_lede]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_faq_lede]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_3_items_0_question]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Do I need to book, or can I turn up?]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_3_items_0_question]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_faq_q]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_3_items_0_answer]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Booking is better — it means a bay and a technician are waiting for you. For a warning light we will usually find you a slot the same day.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_3_items_0_answer]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_faq_a]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_3_items_1_question]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Will using an independent garage affect my warranty?]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_3_items_1_question]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_faq_q]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_3_items_1_answer]]></wp:meta_key>
-		<wp:meta_value><![CDATA[No. As long as the service follows the manufacturer schedule and uses matching quality parts, the warranty stands. Every visit is recorded in your service book.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_3_items_1_answer]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_faq_a]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_3_items_2_question]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Can I wait while the work is done?]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_3_items_2_question]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_faq_q]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_3_items_2_answer]]></wp:meta_key>
-		<wp:meta_value><![CDATA[For a service, most people prefer to leave the car. There is a waiting room with decent coffee if you would rather stay.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_3_items_2_answer]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_faq_a]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_3_items_3_question]]></wp:meta_key>
-		<wp:meta_value><![CDATA[What if you find something else?]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_3_items_3_question]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_faq_q]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_3_items_3_answer]]></wp:meta_key>
-		<wp:meta_value><![CDATA[We stop and call you. Nothing beyond the agreed quote is fitted without a second yes, in writing or by phone.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_3_items_3_answer]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_faq_a]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_3_items]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_3_items]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_faq_items]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_4_background]]></wp:meta_key>
-		<wp:meta_value><![CDATA[132]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_4_background]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_band_image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_4_eyebrow]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Ready when you are]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_4_eyebrow]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_band_eyebrow]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_4_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Book the slot, keep the day]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_4_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_band_title]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_4_lede]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Pick a morning that suits you and the car is back with you by evening.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_4_lede]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_band_lede]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_4_button_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Book a service]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_4_button_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_band_btn_text]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_4_button_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_4_button_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_band_btn_url]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_4_phone]]></wp:meta_key>
+		<wp:meta_key><![CDATA[phone]]></wp:meta_key>
 		<wp:meta_value><![CDATA[+1 555 0143]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_4_phone]]></wp:meta_key>
+		<wp:meta_key><![CDATA[_phone]]></wp:meta_key>
 		<wp:meta_value><![CDATA[field_mp_band_phone]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_4_anchor]]></wp:meta_key>
-		<wp:meta_value><![CDATA[book]]></wp:meta_value>
+		<wp:meta_key><![CDATA[email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[aisha@example.com]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_4_anchor]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_anchor_layout_mp_cta_band]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642db82aa0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_layout_meta]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:8:"disabled";a:0:{}s:7:"renamed";a:0:{}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[biography]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<p>Aisha started on the tools and moved to the desk because she was the one everybody asked when a job went sideways. She still does the final check on every car before the keys go back.</p><p>She is the reason this workshop quotes in writing: she got tired of arguments that a photograph would have ended.</p>]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{i:0;s:15:"services_modern";i:1;s:14:"pricing_modern";i:2;s:12:"feature_list";i:3;s:10:"faq_modern";i:4;s:8:"cta_band";}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_biography]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642ba82a9d]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_page_sections]]></wp:meta_value>
+		<wp:meta_key><![CDATA[skills_0_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Diagnostics]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_eyebrow]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Pricing]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_skills_0_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_eyebrow]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_eyebrow]]></wp:meta_value>
+		<wp:meta_key><![CDATA[skills_0_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[85]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[What a service costs]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_skills_0_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_title]]></wp:meta_value>
+		<wp:meta_key><![CDATA[skills_1_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Customer care]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_lede]]></wp:meta_key>
-		<wp:meta_value><![CDATA[These cover most passenger cars. Anything outside them is quoted in writing before work starts.]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_skills_1_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_lede]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_lede]]></wp:meta_value>
+		<wp:meta_key><![CDATA[skills_1_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[95]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_0_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Interim]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_skills_1_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_0_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_name]]></wp:meta_value>
+		<wp:meta_key><![CDATA[skills_2_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Scheduling]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_0_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[$89]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_skills_2_skill_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642f582aa2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_0_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_amount]]></wp:meta_value>
+		<wp:meta_key><![CDATA[skills_2_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_0_unit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[per visit]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_skills_2_skill_percent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_6856431282aa3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_0_unit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_unit]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_0_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[A mid-year check for cars covering a lot of miles.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_0_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_desc]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_0_featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_0_featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_featured]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_0_badge_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_0_badge_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_tag]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_0_features_0_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Oil and filter change]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_0_features_0_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_0_features_1_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Fluid levels topped up]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_0_features_1_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_0_features_2_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Tyre and brake check]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_0_features_2_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_0_features_3_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Written condition report]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_0_features_3_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_0_features]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_0_features]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_features]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_0_button_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Book this]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_0_button_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_btn_text]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_0_button_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_0_button_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_btn_url]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_1_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Full service]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_1_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_name]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_1_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[$179]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_1_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_amount]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_1_unit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[per visit]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_1_unit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_unit]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_1_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[The yearly service most cars need, done in a single day.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_1_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_desc]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_1_featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_1_featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_featured]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_1_badge_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Most booked]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_1_badge_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_tag]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_1_features_0_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Everything in Interim]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_1_features_0_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_1_features_1_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Air and cabin filters]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_1_features_1_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_1_features_2_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Spark plugs where due]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_1_features_2_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_1_features_3_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Full diagnostic scan]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_1_features_3_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_1_features_4_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Twelve month warranty]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_1_features_4_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_1_features]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_1_features]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_features]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_1_button_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Book this]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_1_button_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_btn_text]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_1_button_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_1_button_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_btn_url]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_2_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Care plan]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_2_name]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_name]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_2_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[$24]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_2_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_amount]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_2_unit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[per month]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_2_unit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_unit]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_2_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Spread the cost and keep a slot reserved through the year.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_2_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_desc]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_2_featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_2_featured]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_featured]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_2_badge_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_2_badge_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_tag]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_2_features_0_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Full service included]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_2_features_0_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_2_features_1_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Priority booking]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_2_features_1_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_2_features_2_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Free seasonal checks]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_2_features_2_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_2_features_3_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Cancel any time]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_2_features_3_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_2_features]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_2_features]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_features]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_2_button_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Book this]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_2_button_text]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_btn_text]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans_2_button_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans_2_button_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_btn_url]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_plans]]></wp:meta_key>
+		<wp:meta_key><![CDATA[skills]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_plans]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_price_plans]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_1_anchor]]></wp:meta_key>
-		<wp:meta_value><![CDATA[pricing]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_1_anchor]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_anchor_layout_mp_pricing_modern]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_tone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[dark]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_tone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_tone]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_eyebrow]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Specialisms]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_eyebrow]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_eyebrow]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[The bigger jobs]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_title]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_lede]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Work that needs more than a service bay and an afternoon.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_lede]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_lede]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_0_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Clutch and gearbox]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_0_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_title]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_0_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Full replacements and hydraulic faults, on manual and automatic transmissions.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_0_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_text]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_0_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[171]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_0_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_0_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_0_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_url]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_1_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Suspension and steering]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_1_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_title]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_1_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Shocks, springs and bushes, with the geometry set afterwards on a four-wheel rig.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_1_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_text]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_1_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[144]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_1_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_1_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_1_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_url]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_2_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Electrical faults]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_2_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_title]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_2_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Intermittent lights, parasitic drain and wiring repairs — traced, not guessed.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_2_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_text]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_2_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[120]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_2_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_2_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_2_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_url]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_3_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Pre-purchase inspection]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_3_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_title]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_3_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[A written report on a car you are thinking of buying, before you hand over the money.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_3_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_text]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_3_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[174]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_3_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows_3_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows_3_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_row_url]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[page_sections_2_rows]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_page_sections_2_rows]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_mp_feat_rows]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[autokaj_seo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Book scheduled servicing, brake and suspension work, engine diagnostics and air conditioning care with a garage that explains every fix before you approve it.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_autokaj_seo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[field_autokaj_seo_description]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_skills]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_685642e682aa1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6522,6 +5627,934 @@ This email is a receipt for your contact form submission on our website ([_site_
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Services]]></title>
+		<link>http://localhost/car-repair/services/</link>
+		<pubDate>Fri, 24 Jul 2026 12:27:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/car-repair/services/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>351</wp:post_id>
+		<wp:post_date><![CDATA[2026-07-24 12:27:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-07-24 12:27:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-07-24 12:27:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-07-24 12:27:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[services]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-sections.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_eyebrow]]></wp:meta_key>
+		<wp:meta_value><![CDATA[What we do]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_eyebrow]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_eyebrow]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Servicing, diagnostics and repair]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_title]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_lede]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Everything below happens in this building, by the people you meet at the desk. Nothing is subcontracted without telling you first.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_lede]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_lede]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_0_icon_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[icon-piston]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_0_icon_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_icon]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_0_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Scheduled servicing]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_0_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_title_i]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_0_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Interim and full services to the manufacturer schedule, logged in your service book.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_0_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_desc]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_0_link_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[See prices]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_0_link_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_link_text]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_0_link]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#pricing]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_0_link]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_link]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_1_icon_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[icon-brake-disc]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_1_icon_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_icon]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_1_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Brakes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_1_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_title_i]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_1_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Pads, discs, fluid and handbrake adjustment, measured on a brake tester rather than judged by feel.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_1_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_desc]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_1_link_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[See prices]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_1_link_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_link_text]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_1_link]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#pricing]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_1_link]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_link]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_2_icon_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[icon-pressure]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_2_icon_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_icon]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_2_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Diagnostics]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_2_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_title_i]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_2_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Warning lights traced to a cause on live data, with the reading shown to you before any part is ordered.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_2_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_desc]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_2_link_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[See prices]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_2_link_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_link_text]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_2_link]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#pricing]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_2_link]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_link]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_3_icon_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[icon-broken-car]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_3_icon_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_icon]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_3_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Air conditioning]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_3_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_title_i]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_3_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Regas, leak detection and cabin filter replacement, best booked before the first warm week.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_3_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_desc]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_3_link_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[See prices]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_3_link_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_link_text]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items_3_link]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#pricing]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items_3_link]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_link]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_0_items]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_0_items]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_srv_items]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_3_eyebrow]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Questions]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_3_eyebrow]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_faq_eyebrow]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_3_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Before you book]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_3_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_faq_title]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_3_lede]]></wp:meta_key>
+		<wp:meta_value><![CDATA[If yours is not here, call the workshop and ask for the duty technician.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_3_lede]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_faq_lede]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_3_items_0_question]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Do I need to book, or can I turn up?]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_3_items_0_question]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_faq_q]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_3_items_0_answer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Booking is better — it means a bay and a technician are waiting for you. For a warning light we will usually find you a slot the same day.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_3_items_0_answer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_faq_a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_3_items_1_question]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Will using an independent garage affect my warranty?]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_3_items_1_question]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_faq_q]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_3_items_1_answer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[No. As long as the service follows the manufacturer schedule and uses matching quality parts, the warranty stands. Every visit is recorded in your service book.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_3_items_1_answer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_faq_a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_3_items_2_question]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Can I wait while the work is done?]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_3_items_2_question]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_faq_q]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_3_items_2_answer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[For a service, most people prefer to leave the car. There is a waiting room with decent coffee if you would rather stay.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_3_items_2_answer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_faq_a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_3_items_3_question]]></wp:meta_key>
+		<wp:meta_value><![CDATA[What if you find something else?]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_3_items_3_question]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_faq_q]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_3_items_3_answer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[We stop and call you. Nothing beyond the agreed quote is fitted without a second yes, in writing or by phone.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_3_items_3_answer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_faq_a]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_3_items]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_3_items]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_faq_items]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_4_background]]></wp:meta_key>
+		<wp:meta_value><![CDATA[132]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_4_background]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_band_image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_4_eyebrow]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Ready when you are]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_4_eyebrow]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_band_eyebrow]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_4_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Book the slot, keep the day]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_4_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_band_title]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_4_lede]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Pick a morning that suits you and the car is back with you by evening.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_4_lede]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_band_lede]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_4_button_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Book a service]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_4_button_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_band_btn_text]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_4_button_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_4_button_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_band_btn_url]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_4_phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[+1 555 0143]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_4_phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_band_phone]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_4_anchor]]></wp:meta_key>
+		<wp:meta_value><![CDATA[book]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_4_anchor]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_anchor_layout_mp_cta_band]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_layout_meta]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{s:8:"disabled";a:0:{}s:7:"renamed";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{i:0;s:15:"services_modern";i:1;s:14:"pricing_modern";i:2;s:12:"feature_list";i:3;s:10:"faq_modern";i:4;s:8:"cta_band";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_page_sections]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_eyebrow]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Pricing]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_eyebrow]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_eyebrow]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[What a service costs]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_title]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_lede]]></wp:meta_key>
+		<wp:meta_value><![CDATA[These cover most passenger cars. Anything outside them is quoted in writing before work starts.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_lede]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_lede]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_0_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Interim]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_0_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_name]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_0_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[$89]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_0_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_amount]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_0_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[per visit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_0_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_unit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_0_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[A mid-year check for cars covering a lot of miles.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_0_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_desc]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_0_featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_0_featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_featured]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_0_badge_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_0_badge_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_tag]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_0_features_0_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Oil and filter change]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_0_features_0_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_0_features_1_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Fluid levels topped up]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_0_features_1_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_0_features_2_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Tyre and brake check]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_0_features_2_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_0_features_3_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Written condition report]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_0_features_3_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_0_features]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_0_features]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_features]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_0_button_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Book this]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_0_button_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_btn_text]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_0_button_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_0_button_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_btn_url]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_1_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Full service]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_1_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_name]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_1_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[$179]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_1_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_amount]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_1_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[per visit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_1_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_unit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_1_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[The yearly service most cars need, done in a single day.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_1_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_desc]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_1_featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_1_featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_featured]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_1_badge_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Most booked]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_1_badge_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_tag]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_1_features_0_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Everything in Interim]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_1_features_0_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_1_features_1_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Air and cabin filters]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_1_features_1_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_1_features_2_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Spark plugs where due]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_1_features_2_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_1_features_3_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Full diagnostic scan]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_1_features_3_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_1_features_4_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Twelve month warranty]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_1_features_4_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_1_features]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_1_features]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_features]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_1_button_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Book this]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_1_button_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_btn_text]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_1_button_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_1_button_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_btn_url]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_2_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Care plan]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_2_name]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_name]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_2_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[$24]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_2_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_amount]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_2_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[per month]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_2_unit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_unit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_2_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Spread the cost and keep a slot reserved through the year.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_2_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_desc]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_2_featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_2_featured]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_featured]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_2_badge_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_2_badge_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_tag]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_2_features_0_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Full service included]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_2_features_0_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_2_features_1_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Priority booking]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_2_features_1_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_2_features_2_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Free seasonal checks]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_2_features_2_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_2_features_3_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Cancel any time]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_2_features_3_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_feature]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_2_features]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_2_features]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_features]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_2_button_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Book this]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_2_button_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_btn_text]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans_2_button_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans_2_button_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_btn_url]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_plans]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_plans]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_price_plans]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_1_anchor]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pricing]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_1_anchor]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_anchor_layout_mp_pricing_modern]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_tone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[dark]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_tone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_tone]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_eyebrow]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Specialisms]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_eyebrow]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_eyebrow]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[The bigger jobs]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_title]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_lede]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Work that needs more than a service bay and an afternoon.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_lede]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_lede]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_0_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Clutch and gearbox]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_0_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_title]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_0_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Full replacements and hydraulic faults, on manual and automatic transmissions.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_0_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_text]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_0_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[171]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_0_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_0_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_0_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_url]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_1_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Suspension and steering]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_1_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_title]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_1_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Shocks, springs and bushes, with the geometry set afterwards on a four-wheel rig.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_1_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_text]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_1_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[144]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_1_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_1_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_1_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_url]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_2_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Electrical faults]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_2_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_title]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_2_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Intermittent lights, parasitic drain and wiring repairs — traced, not guessed.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_2_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_text]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_2_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[120]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_2_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_2_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_2_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_url]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_3_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Pre-purchase inspection]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_3_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_title]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_3_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[A written report on a car you are thinking of buying, before you hand over the money.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_3_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_text]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_3_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[174]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_3_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows_3_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[/contact/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows_3_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_row_url]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_sections_2_rows]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_sections_2_rows]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_mp_feat_rows]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[autokaj_seo_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Book scheduled servicing, brake and suspension work, engine diagnostics and air conditioning care with a garage that explains every fix before you approve it.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_autokaj_seo_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_autokaj_seo_description]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Contact]]></title>
 		<link>http://localhost/car-repair/contact/</link>
 		<pubDate>Fri, 24 Jul 2026 12:30:00 +0000</pubDate>
@@ -7086,8 +7119,8 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:post_id>358</wp:post_id>
 		<wp:post_date><![CDATA[2026-07-21 13:05:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-07-21 13:05:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-21 13:05:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-21 13:05:29]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-06 14:23:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-06 14:23:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[what-a-full-service-actually-includes]]></wp:post_name>
@@ -7099,8 +7132,8 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="costs"><![CDATA[costs]]></category>
 		<category domain="post_tag" nicename="maintenance"><![CDATA[maintenance]]></category>
-		<category domain="category" nicename="servicing"><![CDATA[Servicing]]></category>
 		<category domain="post_tag" nicename="servicing"><![CDATA[servicing]]></category>
+		<category domain="category" nicename="servicing"><![CDATA[Servicing]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[120]]></wp:meta_value>
@@ -7163,8 +7196,8 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="diagnostics"><![CDATA[Diagnostics]]></category>
-		<category domain="post_tag" nicename="diagnostics"><![CDATA[diagnostics]]></category>
+										<category domain="post_tag" nicename="diagnostics"><![CDATA[diagnostics]]></category>
+		<category domain="category" nicename="diagnostics"><![CDATA[Diagnostics]]></category>
 		<category domain="post_tag" nicename="warning-lights"><![CDATA[warning lights]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -7200,8 +7233,8 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="brakes"><![CDATA[Brakes]]></category>
-		<category domain="post_tag" nicename="brakes"><![CDATA[brakes]]></category>
+										<category domain="post_tag" nicename="brakes"><![CDATA[brakes]]></category>
+		<category domain="category" nicename="brakes"><![CDATA[Brakes]]></category>
 		<category domain="post_tag" nicename="maintenance"><![CDATA[maintenance]]></category>
 		<category domain="post_tag" nicename="safety"><![CDATA[safety]]></category>
 						<wp:postmeta>
@@ -7274,8 +7307,8 @@ Sat 9:00 – 14:00]]></wp:meta_value>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="buying-advice"><![CDATA[Buying advice]]></category>
-		<category domain="post_tag" nicename="buying-advice"><![CDATA[buying advice]]></category>
+										<category domain="post_tag" nicename="buying-advice"><![CDATA[buying advice]]></category>
+		<category domain="category" nicename="buying-advice"><![CDATA[Buying advice]]></category>
 		<category domain="post_tag" nicename="costs"><![CDATA[costs]]></category>
 		<category domain="post_tag" nicename="inspection"><![CDATA[inspection]]></category>
 						<wp:postmeta>
