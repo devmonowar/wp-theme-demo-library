@@ -1,0 +1,30 @@
+{
+	"schema_version": 1,
+	"id": "car-repair-placeholder",
+	"name": "Car Repair Services (Placeholder Images)",
+	"theme": "autokaj",
+	"requires": "1.0.0",
+	"files": {
+		"content": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair-placeholder/content.xml",
+		"widgets": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair-placeholder/widgets.wie",
+		"customizer": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair-placeholder/customizer.dat",
+		"attachments": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair-placeholder/attachments.json"
+	},
+	"uploads": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair-placeholder/uploads/",
+	"setup": {
+		"front_page": "Home",
+		"posts_page": "Blog",
+		"menus": {
+			"main-menu": "Main Menu",
+			"footer-menu": "Footer Menu"
+		},
+		"site_icon": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair-placeholder/uploads/2026/08/site-icon.png"
+	},
+	"notice": "This edition ships placeholder images (grey boxes with sizes) instead of stock photography, so nothing needs a photo licence. Advanced Custom Fields PRO must still be active before you import, or the page sections will come in without their content.",
+	"contains": {
+		"pages": 7,
+		"posts": 5,
+		"team_members": 6,
+		"media": 38
+	}
+}

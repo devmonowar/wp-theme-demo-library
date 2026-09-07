@@ -18,6 +18,22 @@
 			"preview_width": 1200,
 			"preview_height": 675,
 			"file": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/demos/car-repair.json"
+		},
+		{
+			"id": "car-repair-placeholder",
+			"name": "Car Repair Services (Placeholder Images)",
+			"description": "The same workshop site with placeholder boxes instead of stock photography — no photo licence needed. Swap in your own images any time.",
+			"version": "1.0",
+			"updated": "2026-09-07",
+			"requires": "1.0.0",
+			"category": "Car Repair",
+			"tags": [ "garage", "servicing", "mot", "workshop", "booking", "placeholder" ],
+			"featured": false,
+			"new": true,
+			"preview": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/previews/car-repair-placeholder.jpg",
+			"preview_width": 1200,
+			"preview_height": 675,
+			"file": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/demos/car-repair-placeholder.json"
 		}
 	]
 }
