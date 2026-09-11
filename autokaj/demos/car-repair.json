@@ -1,0 +1,30 @@
+{
+	"schema_version": 1,
+	"id": "car-repair",
+	"name": "Car Repair Services",
+	"theme": "autokaj",
+	"requires": "1.0.0",
+	"files": {
+		"content": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/content.xml",
+		"widgets": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/widgets.wie",
+		"customizer": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/customizer.dat",
+		"attachments": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/attachments.json"
+	},
+	"uploads": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/",
+	"setup": {
+		"front_page": "Home",
+		"posts_page": "Blog",
+		"menus": {
+			"main-menu": "Main Menu",
+			"footer-menu": "Footer Menu"
+		},
+		"site_icon": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/assets/car-repair/uploads/2026/08/site-icon.png"
+	},
+	"notice": "Advanced Custom Fields PRO must be active before you import, or the page sections will come in without their content.",
+	"contains": {
+		"pages": 7,
+		"posts": 5,
+		"team_members": 6,
+		"media": 38
+	}
+}
