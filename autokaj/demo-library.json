@@ -28,7 +28,7 @@
 			"requires": "1.0.0",
 			"category": "Car Repair",
 			"tags": [ "garage", "servicing", "mot", "workshop", "booking", "placeholder" ],
-			"featured": true,
+			"featured": false,
 			"new": true,
 			"preview": "https://devmonowar.github.io/wp-theme-demo-library/autokaj/previews/car-repair-placeholder.jpg",
 			"preview_width": 1200,
