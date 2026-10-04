@@ -11,22 +11,22 @@
 		"attachments": "https://devmonowar.github.io/wp-theme-demo-library/kivora/assets/creative-studio/attachments.json"
 	},
 	"setup": {
-		"front_page": "Home",
+		"front_page": "Studio Landing",
 		"posts_page": "Journal",
 		"privacy_page": "Privacy policy",
 		"menus": {
 			"primary": "Main Menu",
 			"footer": "Footer Menu"
 		},
-		"site_icon": "https://devmonowar.github.io/wp-theme-demo-library/kivora/assets/creative-studio/uploads/2026/08/northline-studio-icon.png",
-		"source_url": "http://localhost/kivora-demo"
+		"site_icon": "https://devmonowar.github.io/wp-theme-demo-library/kivora/assets/creative-studio/uploads/2026/10/kivora-icon.png",
+		"source_url": "http://localhost/kivora"
 	},
-	"notice": "No plugins are required. The demo is built from core WordPress blocks and the theme's own patterns.",
+	"notice": "No plugins are required. The demo pages are custom static designs with a shared site menu; the journal is ordinary posts.",
 	"contains": {
 		"pages": 7,
 		"posts": 6,
 		"comments": 3,
-		"media": 15,
+		"media": 24,
 		"menus": 2,
 		"widget_areas": 5
 	}
