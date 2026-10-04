@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1.2" created="2026-10-04 09:37" -->
+	<!-- generator="WordPress/7.1.2" created="2026-10-04 12:49" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Kivora</title>
 	<link>http://localhost/kivora</link>
 	<description></description>
-	<pubDate>Sun, 04 Oct 2026 09:37:06 +0000</pubDate>
+	<pubDate>Sun, 04 Oct 2026 12:49:56 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/kivora</wp:base_site_url>
@@ -1187,6 +1187,7 @@ main[id] section[id] { scroll-margin-top: 116px; }
         .nav-toggle { display: none; }
         @media (max-width: 992px) {
             .nav-links { display: none; }
+            header .navbar > a.btn { display: none; }
             .navbar { position: relative; }
             .nav-toggle {
                 display: inline-flex;
@@ -1754,7 +1755,7 @@ main[id] section[id] { scroll-margin-top: 116px; }
             </div>
         </div>
     </footer><!-- /wp:html --><!-- wp:html --><script>
-(function () { var nav = document.querySelector('header .nav-links'); var bar = document.querySelector('header .navbar'); if (!nav || !bar || !window.matchMedia) { return; } var btn = document.createElement('button'); btn.type = 'button'; btn.className = 'nav-toggle'; btn.setAttribute('aria-expanded', 'false'); btn.setAttribute('aria-label', 'Toggle menu'); btn.innerHTML = '<span></span><span></span><span></span>'; var panel = document.createElement('div'); panel.className = 'nav-panel'; panel.hidden = true; nav.querySelectorAll('a').forEach(function (a) { var ch = document.createElement('a'); ch.href = a.href; ch.textContent = a.textContent; panel.appendChild(ch); }); btn.addEventListener('click', function () { var open = panel.hidden; panel.hidden = !open; btn.setAttribute('aria-expanded', String(open)); }); panel.addEventListener('click', function (e) { if (e.target.closest('a')) { panel.hidden = true; btn.setAttribute('aria-expanded', 'false'); } }); bar.appendChild(btn); bar.appendChild(panel); })(); lucide.createIcons();
+(function () { var nav = document.querySelector('header .nav-links'); var bar = document.querySelector('header .navbar'); if (!nav || !bar || !window.matchMedia) { return; } var btn = document.createElement('button'); btn.type = 'button'; btn.className = 'nav-toggle'; btn.setAttribute('aria-expanded', 'false'); btn.setAttribute('aria-label', 'Toggle menu'); btn.innerHTML = '<span></span><span></span><span></span>'; var panel = document.createElement('div'); panel.className = 'nav-panel'; panel.hidden = true; nav.querySelectorAll('a').forEach(function (a) { var ch = document.createElement('a'); ch.href = a.href; ch.textContent = a.textContent; panel.appendChild(ch); }); var cta = bar.querySelector( 'a.btn' ); if ( cta ) { var cl = document.createElement( 'a' ); cl.href = cta.href; cl.textContent = cta.textContent.trim(); panel.appendChild( cl ); } btn.addEventListener('click', function () { var open = panel.hidden; panel.hidden = !open; btn.setAttribute('aria-expanded', String(open)); }); panel.addEventListener('click', function (e) { if (e.target.closest('a')) { panel.hidden = true; btn.setAttribute('aria-expanded', 'false'); } }); bar.appendChild(btn); bar.appendChild(panel); })(); lucide.createIcons();
 document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 	button.addEventListener('click', function () {
 		var content = button.nextElementSibling;
@@ -1773,8 +1774,8 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 		<wp:post_id>244</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-03 05:35:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-10-03 05:35:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-04 06:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-04 06:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-10-04 12:40:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-04 12:40:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[studio-landing]]></wp:post_name>
@@ -2411,6 +2412,7 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 .kivora-static .nav-toggle { display: none; }
 @media (max-width: 992px) {
 	.kivora-static .navbar { position: relative; }
+	.kivora-static .navbar > a.btn { display: none; }
 	.kivora-static .nav-toggle {
 		display: inline-flex;
 		flex-direction: column;
@@ -2690,6 +2692,7 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 		c.textContent = a.textContent;
 		panel.appendChild(c);
 	});
+	var cta = bar.querySelector( 'a.btn' ); if ( cta ) { var cl = document.createElement( 'a' ); cl.href = cta.href; cl.textContent = cta.textContent.trim(); panel.appendChild( cl ); }
 	btn.addEventListener('click', function () {
 		var open = panel.hidden;
 		panel.hidden = !open;
@@ -2705,8 +2708,8 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 		<wp:post_id>257</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-03 05:53:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-10-03 05:53:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-03 08:15:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-03 08:15:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-10-04 12:40:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-04 12:40:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services]]></wp:post_name>
@@ -3201,6 +3204,7 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 .kivora-static .nav-toggle { display: none; }
 @media (max-width: 992px) {
 	.kivora-static .navbar { position: relative; }
+	.kivora-static .navbar > a.btn { display: none; }
 	.kivora-static .nav-toggle {
 		display: inline-flex;
 		flex-direction: column;
@@ -3491,6 +3495,7 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 		c.textContent = a.textContent;
 		panel.appendChild(c);
 	});
+	var cta = bar.querySelector( 'a.btn' ); if ( cta ) { var cl = document.createElement( 'a' ); cl.href = cta.href; cl.textContent = cta.textContent.trim(); panel.appendChild( cl ); }
 	btn.addEventListener('click', function () {
 		var open = panel.hidden;
 		panel.hidden = !open;
@@ -3506,8 +3511,8 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 		<wp:post_id>258</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-03 05:53:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-10-03 05:53:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-03 08:15:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-03 08:15:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-10-04 12:40:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-04 12:40:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[work]]></wp:post_name>
@@ -4001,6 +4006,7 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 .kivora-static .nav-toggle { display: none; }
 @media (max-width: 992px) {
 	.kivora-static .navbar { position: relative; }
+	.kivora-static .navbar > a.btn { display: none; }
 	.kivora-static .nav-toggle {
 		display: inline-flex;
 		flex-direction: column;
@@ -4256,6 +4262,7 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 		c.textContent = a.textContent;
 		panel.appendChild(c);
 	});
+	var cta = bar.querySelector( 'a.btn' ); if ( cta ) { var cl = document.createElement( 'a' ); cl.href = cta.href; cl.textContent = cta.textContent.trim(); panel.appendChild( cl ); }
 	btn.addEventListener('click', function () {
 		var open = panel.hidden;
 		panel.hidden = !open;
@@ -4271,8 +4278,8 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 		<wp:post_id>259</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-03 05:53:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-10-03 05:53:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-03 08:15:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-03 08:15:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-10-04 12:40:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-04 12:40:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -5665,6 +5672,7 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 .kivora-static .nav-toggle { display: none; }
 @media (max-width: 992px) {
 	.kivora-static .navbar { position: relative; }
+	.kivora-static .navbar > a.btn { display: none; }
 	.kivora-static .nav-toggle {
 		display: inline-flex;
 		flex-direction: column;
@@ -5888,6 +5896,7 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 		c.textContent = a.textContent;
 		panel.appendChild(c);
 	});
+	var cta = bar.querySelector( 'a.btn' ); if ( cta ) { var cl = document.createElement( 'a' ); cl.href = cta.href; cl.textContent = cta.textContent.trim(); panel.appendChild( cl ); }
 	btn.addEventListener('click', function () {
 		var open = panel.hidden;
 		panel.hidden = !open;
@@ -5903,8 +5912,8 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 		<wp:post_id>260</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-03 05:53:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-10-03 05:53:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-03 08:15:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-03 08:15:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-10-04 12:40:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-04 12:40:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
