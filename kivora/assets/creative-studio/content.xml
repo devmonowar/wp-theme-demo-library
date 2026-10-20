@@ -1238,15 +1238,17 @@ main[id] section[id] { scroll-margin-top: 116px; }
                 <div class="logo-box">K</div>
                 <span>Kivora</span>
             </a>
+            <nav aria-label="Primary">
             <ul class="nav-links">
                 <li><a href="http://localhost/kivora/" class="active">Home</a></li>
                 <li><a href="http://localhost/kivora/index.php/services/">Services</a></li>
                 <li><a href="http://localhost/kivora/index.php/work/">Our Work</a></li>
                 <li><a href="http://localhost/kivora/index.php/about/">About Us</a></li>
             </ul>
+        </nav>
             <a href="http://localhost/kivora/index.php/contact/" class="btn btn-primary">Contact Us</a>
         </div>
-    </header><main class="pt-20">
+    </header><div class="pt-20">
 
         <!-- Hero Section -->
         <section class="py-16 md:py-24 bg-gradient-to-b from-white to-slate-50">
@@ -1289,19 +1291,6 @@ main[id] section[id] { scroll-margin-top: 116px; }
                                 loading="eager"
                             />
                             <div class="absolute inset-0 bg-gradient-to-t from-slate-900/40 via-transparent to-transparent"></div>
-                            
-                            <!-- Floating Card Badge -->
-                            <div class="absolute bottom-6 left-6 right-6 p-4 rounded-xl bg-white/90 backdrop-blur-md border border-white/40 shadow-lg flex items-center justify-between">
-                                <div class="flex items-center gap-3">
-                                    <div class="w-10 h-10 rounded-lg bg-slate-900 flex items-center justify-center text-white">
-                                        <i data-lucide="sparkles" class="w-5 h-5 text-amber-400"></i>
-                                    </div>
-                                    <div>
-                                        <p class="text-sm font-bold text-slate-900">Pixel-Perfect & Fast</p>
-                                        <p class="text-xs text-slate-500">100/100 Lighthouse Performance Guaranteed</p>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
 
@@ -1475,13 +1464,13 @@ main[id] section[id] { scroll-margin-top: 116px; }
                     </div>
 
                     <div class="px-4">
-                        <div class="text-4xl sm:text-5xl font-black text-white tracking-tight mb-2">&lt;50 KB</div>
-                        <div class="text-xs sm:text-sm font-medium text-slate-400">Average page weight</div>
+                        <div class="text-4xl sm:text-5xl font-black text-white tracking-tight mb-2">98%</div>
+                        <div class="text-xs sm:text-sm font-medium text-slate-400">Client retention</div>
                     </div>
 
                     <div class="px-4">
-                        <div class="text-4xl sm:text-5xl font-black text-white tracking-tight mb-2">100/100</div>
-                        <div class="text-xs sm:text-sm font-medium text-slate-400">Lighthouse score baseline</div>
+                        <div class="text-4xl sm:text-5xl font-black text-white tracking-tight mb-2">12+</div>
+                        <div class="text-xs sm:text-sm font-medium text-slate-400">Years in business</div>
                     </div>
 
                 </div>
@@ -1705,7 +1694,7 @@ main[id] section[id] { scroll-margin-top: 116px; }
             </div>
         </section>
 
-    </main><footer class="bg-white border-t border-slate-200 py-16 text-slate-600 text-xs sm:text-sm">
+    </div><footer class="bg-white border-t" border-slate-200 py-16 text-slate-600 text-xs sm:text-sm">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="grid grid-cols-2 md:grid-cols-4 gap-8 mb-12">
                 
@@ -2460,12 +2449,14 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
                 <div class="logo-box">K</div>
                 <span>Kivora</span>
             </a>
+            <nav aria-label="Primary">
             <ul class="nav-links">
                 <li><a href="http://localhost/kivora/">Home</a></li>
                 <li><a href="http://localhost/kivora/index.php/services/" class="active">Services</a></li>
                 <li><a href="http://localhost/kivora/index.php/work/">Our Work</a></li>
                 <li><a href="http://localhost/kivora/index.php/about/">About Us</a></li>
             </ul>
+        </nav>
             <a href="http://localhost/kivora/index.php/contact/" class="btn btn-primary">Contact Us</a>
         </div>
     </header>
@@ -2703,7 +2694,7 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 	});
 	bar.appendChild(btn);
 	bar.appendChild(panel);
-})();lucide.createIcons();</script><!-- /wp:html -->]]></content:encoded>
+})();(function(){var b=document.querySelectorAll('.filter-btn'),c=document.querySelectorAll('.portfolio-card');if(!b.length||!c.length){return;}b.forEach(function(x){x.addEventListener('click',function(){var f=x.getAttribute('data-filter');b.forEach(function(y){var on=y===x;y.classList.toggle('active',on);y.setAttribute('aria-pressed',on?'true':'false');});c.forEach(function(k){var g=k.querySelector('.card-badge');var m=f==='all'||(g&&g.textContent.trim()===f);k.style.display=m?'':'none';});});});})();lucide.createIcons();</script><!-- /wp:html -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>257</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-03 05:53:12]]></wp:post_date>
@@ -3252,12 +3243,14 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
                 <div class="logo-box">K</div>
                 <span>Kivora</span>
             </a>
+            <nav aria-label="Primary">
             <ul class="nav-links">
                 <li><a href="http://localhost/kivora/">Home</a></li>
                 <li><a href="http://localhost/kivora/index.php/services/">Services</a></li>
                 <li><a href="http://localhost/kivora/index.php/work/" class="active">Our Work</a></li>
                 <li><a href="http://localhost/kivora/index.php/about/">About Us</a></li>
             </ul>
+        </nav>
             <a href="http://localhost/kivora/index.php/contact/" class="btn btn-primary">Contact Us</a>
         </div>
     </header>
@@ -3271,11 +3264,11 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
             
             <!-- Category Filter Buttons -->
             <div class="filter-container">
-                <button class="filter-btn active">All Projects</button>
-                <button class="filter-btn">Web Applications</button>
-                <button class="filter-btn">UI/UX Redesign</button>
-                <button class="filter-btn">E-commerce</button>
-                <button class="filter-btn">Branding</button>
+                <button class="filter-btn active" data-filter="all" aria-pressed="true">All Projects</button>
+                <button class="filter-btn" data-filter="Fintech SaaS" aria-pressed="false">Fintech SaaS</button>
+                <button class="filter-btn" data-filter="E-commerce" aria-pressed="false">E-commerce</button>
+                <button class="filter-btn" data-filter="AI Platform" aria-pressed="false">AI Platform</button>
+                <button class="filter-btn" data-filter="Healthtech" aria-pressed="false">Healthtech</button>
             </div>
         </div>
     </section>
@@ -3506,7 +3499,7 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 	});
 	bar.appendChild(btn);
 	bar.appendChild(panel);
-})();lucide.createIcons();</script><!-- /wp:html -->]]></content:encoded>
+})();(function(){var b=document.querySelectorAll('.filter-btn'),c=document.querySelectorAll('.portfolio-card');if(!b.length||!c.length){return;}b.forEach(function(x){x.addEventListener('click',function(){var f=x.getAttribute('data-filter');b.forEach(function(y){var on=y===x;y.classList.toggle('active',on);y.setAttribute('aria-pressed',on?'true':'false');});c.forEach(function(k){var g=k.querySelector('.card-badge');var m=f==='all'||(g&&g.textContent.trim()===f);k.style.display=m?'':'none';});});});})();lucide.createIcons();</script><!-- /wp:html -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>258</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-03 05:53:12]]></wp:post_date>
@@ -4054,12 +4047,14 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
                 <div class="logo-box">K</div>
                 <span>Kivora</span>
             </a>
+            <nav aria-label="Primary">
             <ul class="nav-links">
                 <li><a href="http://localhost/kivora/">Home</a></li>
                 <li><a href="http://localhost/kivora/index.php/services/">Services</a></li>
                 <li><a href="http://localhost/kivora/index.php/work/">Our Work</a></li>
                 <li><a href="http://localhost/kivora/index.php/about/" class="active">About Us</a></li>
             </ul>
+        </nav>
             <a href="http://localhost/kivora/index.php/contact/" class="btn btn-primary">Contact Us</a>
         </div>
     </header>
@@ -4136,8 +4131,8 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
                         <div class="team-role">Founder & CEO</div>
                         <p class="team-bio">12+ years leading digital transformation strategies for enterprise brands.</p>
                         <div class="team-socials">
-                            <a href="#"><i data-lucide="linkedin"></i></a>
-                            <a href="#"><i data-lucide="twitter"></i></a>
+                            <a href="https://www.linkedin.com/" aria-label="LinkedIn"><i data-lucide="linkedin"></i></a>
+                            <a href="https://x.com/" aria-label="X"><i data-lucide="twitter"></i></a>
                         </div>
                     </div>
                 </div>
@@ -4150,8 +4145,8 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
                         <div class="team-role">Head of Design</div>
                         <p class="team-bio">Passionate about design systems, UI architecture, and micro-interactions.</p>
                         <div class="team-socials">
-                            <a href="#"><i data-lucide="linkedin"></i></a>
-                            <a href="#"><i data-lucide="dribbble"></i></a>
+                            <a href="https://www.linkedin.com/" aria-label="LinkedIn"><i data-lucide="linkedin"></i></a>
+                            <a href="https://dribbble.com/" aria-label="Dribbble"><i data-lucide="dribbble"></i></a>
                         </div>
                     </div>
                 </div>
@@ -4164,8 +4159,8 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
                         <div class="team-role">Lead Full-Stack Architect</div>
                         <p class="team-bio">Specialist in cloud-native web systems, Next.js, and high-scale APIs.</p>
                         <div class="team-socials">
-                            <a href="#"><i data-lucide="linkedin"></i></a>
-                            <a href="#"><i data-lucide="github"></i></a>
+                            <a href="https://www.linkedin.com/" aria-label="LinkedIn"><i data-lucide="linkedin"></i></a>
+                            <a href="https://github.com/" aria-label="GitHub"><i data-lucide="github"></i></a>
                         </div>
                     </div>
                 </div>
@@ -4178,8 +4173,8 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
                         <div class="team-role">Product Strategist</div>
                         <p class="team-bio">Helping client teams align business models with user-centric digital products.</p>
                         <div class="team-socials">
-                            <a href="#"><i data-lucide="linkedin"></i></a>
-                            <a href="#"><i data-lucide="twitter"></i></a>
+                            <a href="https://www.linkedin.com/" aria-label="LinkedIn"><i data-lucide="linkedin"></i></a>
+                            <a href="https://x.com/" aria-label="X"><i data-lucide="twitter"></i></a>
                         </div>
                     </div>
                 </div>
@@ -4273,7 +4268,7 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 	});
 	bar.appendChild(btn);
 	bar.appendChild(panel);
-})();lucide.createIcons();</script><!-- /wp:html -->]]></content:encoded>
+})();(function(){var b=document.querySelectorAll('.filter-btn'),c=document.querySelectorAll('.portfolio-card');if(!b.length||!c.length){return;}b.forEach(function(x){x.addEventListener('click',function(){var f=x.getAttribute('data-filter');b.forEach(function(y){var on=y===x;y.classList.toggle('active',on);y.setAttribute('aria-pressed',on?'true':'false');});c.forEach(function(k){var g=k.querySelector('.card-badge');var m=f==='all'||(g&&g.textContent.trim()===f);k.style.display=m?'':'none';});});});})();lucide.createIcons();</script><!-- /wp:html -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>259</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-03 05:53:12]]></wp:post_date>
@@ -5720,12 +5715,14 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
                 <div class="logo-box">K</div>
                 <span>Kivora</span>
             </a>
+            <nav aria-label="Primary">
             <ul class="nav-links">
                 <li><a href="http://localhost/kivora/">Home</a></li>
                 <li><a href="http://localhost/kivora/index.php/services/">Services</a></li>
                 <li><a href="http://localhost/kivora/index.php/work/">Our Work</a></li>
                 <li><a href="http://localhost/kivora/index.php/about/">About Us</a></li>
             </ul>
+        </nav>
             <a href="http://localhost/kivora/index.php/contact/" class="btn btn-primary" style="width: auto;">Contact Us</a>
         </div>
     </header>
@@ -5786,7 +5783,7 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 
                 <!-- Right Column: Contact Form -->
                 <div class="contact-form-box">
-                    <form action="#" method="POST" onsubmit="event.preventDefault(); alert('Thank you! Your message has been sent successfully.');">
+                    <form action="#" method="POST" onsubmit="event.preventDefault(); alert('This is a demo form, so nothing was sent. Please email hello@kivora.com.');">
                         <div class="form-row">
                             <div class="form-group">
                                 <label class="form-label" for="name">Your Name</label>
@@ -5907,7 +5904,7 @@ document.querySelectorAll('.accordion-toggle').forEach(function (button) {
 	});
 	bar.appendChild(btn);
 	bar.appendChild(panel);
-})();lucide.createIcons();</script><!-- /wp:html -->]]></content:encoded>
+})();(function(){var b=document.querySelectorAll('.filter-btn'),c=document.querySelectorAll('.portfolio-card');if(!b.length||!c.length){return;}b.forEach(function(x){x.addEventListener('click',function(){var f=x.getAttribute('data-filter');b.forEach(function(y){var on=y===x;y.classList.toggle('active',on);y.setAttribute('aria-pressed',on?'true':'false');});c.forEach(function(k){var g=k.querySelector('.card-badge');var m=f==='all'||(g&&g.textContent.trim()===f);k.style.display=m?'':'none';});});});})();lucide.createIcons();</script><!-- /wp:html -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>260</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-03 05:53:12]]></wp:post_date>
